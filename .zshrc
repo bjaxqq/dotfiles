@@ -1,0 +1,3 @@
+touch ~/.hushlogin
+echo ""
+neofetch
