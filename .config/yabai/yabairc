@@ -35,6 +35,16 @@ yabai -m rule --add app="^System Preferences$" manage=off
 yabai -m rule --add app="^Wally$" manage=off
 yabai -m rule --add app="^Pulse Secure$" manage=off
 
+# Assign apps to specific workspaces
+## Assign Spotify to workspace 4
+yabai -m rule --add app="^Spotify$" space=4
+
+## Assign LibreWolf to workspace 2
+yabai -m rule --add app="^LibreWolf$" space=2
+
+## Assign Terminal to workspace 1
+yabai -m rule --add app="^Terminal$" space=1
+
 # signals
 ## updates workspace widget when space changes
 yabai -m signal --add event=space_changed \
