@@ -1,12 +1,8 @@
 # dotfiles
 
-A collection of my dotfiles for my macOS and Arch i3 setups.
+A collection of my dotfiles for my macOS setup.
 
 ![Screenshot](images/screenshot.png)
-
-## Arch Linux
-
-COMING SOON
 
 ## macOS
 
