@@ -6,6 +6,8 @@ Dotfiles for my macOS setup.
 
 NOTE: I am not currently using this setup so I am not entirely sure if it still works with MacOS Tahoe, please make sure that you are aware of potential updates that would have caused some of these config files to not work anymore!
 
+## Screenshot
+
 ![Screenshot](images/screenshot.png)
 
 ## macOS
