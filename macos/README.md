@@ -1,6 +1,6 @@
-# dotfiles
+# macos
 
-A collection of my dotfiles for my macOS setup.
+Dotfiles for my macOS setup.
 
 ![Screenshot](images/screenshot.png)
 
@@ -26,7 +26,7 @@ You can easily copy my dotfiles into your own configuration folder using the fol
 
 ```bash
 git clone https://github.com/bjaxqq/dotfiles.git
-cd dotfiles
+cd dotfiles/macos
 ```
 
 2. **Copy the configuration files** into the appropriate directories in your '~/.config' folder:
