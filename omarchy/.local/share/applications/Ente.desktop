@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Ente
+Comment=Ente Authenticator App
+Exec=/home/brooks/Applications/ente-auth-v4.4.4-x86_64.AppImage
+Icon=/home/brooks/Applications/ente-auth-v4.4.4-x86_64.png
+Terminal=false
+Type=Application
+Categories=Utility;
+
