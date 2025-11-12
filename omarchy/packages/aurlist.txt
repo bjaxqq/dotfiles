@@ -1,0 +1,4 @@
+ani-cli
+mullvad-vpn-bin
+mullvad-vpn-bin-debug
+winboat
