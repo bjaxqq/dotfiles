@@ -1,0 +1,15 @@
+2026-01-12 13:09:16.604 [info] Extension host with pid 8930 started
+2026-01-12 13:09:16.604 [info] Skipping acquiring lock for /home/brooks/.config/Code/User/workspaceStorage/3b2083a2d44520271219b3a9dd432599.
+2026-01-12 13:09:16.661 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2026-01-12 13:09:16.721 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2026-01-12 13:09:16.812 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2026-01-12 13:09:16.846 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2026-01-12 13:09:16.955 [info] Eager extensions activated
+2026-01-12 13:09:16.986 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2026-01-12 13:09:16.987 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2026-01-12 13:09:17.000 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: false, activationEvent: 'onStartupFinished'
+2026-01-12 13:09:17.003 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers, startup: false, activationEvent: 'onStartupFinished'
+2026-01-12 13:09:17.107 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2026-01-12 13:09:21.225 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2026-01-12 13:12:23.312 [info] Extension host terminating: renderer closed the MessagePort
+2026-01-12 13:12:23.322 [info] Extension host with pid 8930 exiting with code 0

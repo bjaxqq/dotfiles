@@ -1,0 +1,44 @@
+2026-01-09 16:17:15.906 [info] Started local extension host with pid 14709.
+2026-01-09 16:17:16.179 [info] MCP Registry configured: https://api.mcp.github.com
+2026-01-09 16:17:16.714 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-09 16:17:17.237 [error] [salesforce.apex-language-server-extension]: property `icon` is mandatory and must be of type `string`
+2026-01-09 16:17:17.426 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2026-01-09 16:17:18.307 [error] [Extension Host] (node:14709) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2026-01-09 16:17:18.307 [error] [Extension Host] (node:14709) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+2026-01-09 16:17:18.892 [info] [perf] Render performance baseline is 19ms
+2026-01-09 16:17:18.990 [error] chatParticipant must be declared in package.json: claude-code
+2026-01-09 16:17:19.141 [error] Failed to fetch MCP registry providers Server returned 404
+2026-01-09 16:17:19.432 [info] Auto updating outdated extensions. github.copilot-chat, ms-python.debugpy, ms-python.python, ms-python.vscode-python-envs, redhat.java, salesforce.salesforcedx-vscode, salesforce.salesforcedx-vscode-apex, salesforce.salesforcedx-vscode-apex-oas, salesforce.salesforcedx-vscode-apex-replay-debugger, salesforce.salesforcedx-vscode-core, salesforce.salesforcedx-vscode-lightning, salesforce.salesforcedx-vscode-lwc, salesforce.salesforcedx-vscode-org, salesforce.salesforcedx-vscode-soql, salesforce.salesforcedx-vscode-visualforce, salesforce.sfdx-code-analyzer-vscode, vscjava.vscode-gradle, vscjava.vscode-java-debug, vscjava.vscode-java-dependency, vscjava.vscode-java-test
+2026-01-09 16:17:19.710 [info] Auto updating outdated extensions. github.copilot-chat, ms-python.debugpy, ms-python.python, ms-python.vscode-python-envs, redhat.java, salesforce.salesforcedx-vscode, salesforce.salesforcedx-vscode-apex, salesforce.salesforcedx-vscode-apex-oas, salesforce.salesforcedx-vscode-apex-replay-debugger, salesforce.salesforcedx-vscode-core, salesforce.salesforcedx-vscode-lightning, salesforce.salesforcedx-vscode-lwc, salesforce.salesforcedx-vscode-org, salesforce.salesforcedx-vscode-soql, salesforce.salesforcedx-vscode-visualforce, salesforce.sfdx-code-analyzer-vscode, vscjava.vscode-gradle, vscjava.vscode-java-debug, vscjava.vscode-java-dependency, vscjava.vscode-java-test
+2026-01-09 16:17:34.262 [info] Started local extension host with pid 15107.
+2026-01-09 16:17:35.286 [error] [Extension Host] (node:15107) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2026-01-09 16:17:35.286 [error] [Extension Host] (node:15107) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+2026-01-09 16:17:35.750 [error] chatParticipant must be declared in package.json: claude-code
+2026-01-09 16:17:40.461 [info] Started local extension host with pid 15234.
+2026-01-09 16:17:41.493 [error] [Extension Host] (node:15234) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2026-01-09 16:17:41.495 [error] [Extension Host] (node:15234) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+2026-01-09 16:17:41.676 [error] [Extension Host] Failed to retrieve configuration properties TypeError: Cannot read properties of undefined (reading 'enabled')
+2026-01-09 16:17:41.796 [error] [Extension Host] Failed to retrieve configuration properties TypeError: Cannot read properties of undefined (reading 'enabled')
+2026-01-09 16:17:41.839 [error] chatParticipant must be declared in package.json: claude-code
+2026-01-09 16:17:42.033 [error] [Extension Host] Failed to retrieve configuration properties TypeError: Cannot read properties of undefined (reading 'enabled')
+2026-01-09 16:17:43.029 [info] Started local extension host with pid 15313.
+2026-01-09 16:17:43.951 [info] Auto updating outdated extensions. github.copilot-chat
+2026-01-09 16:17:44.030 [error] [Extension Host] (node:15313) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2026-01-09 16:17:44.030 [error] [Extension Host] (node:15313) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+2026-01-09 16:17:44.229 [error] [Extension Host] Failed to retrieve configuration properties TypeError: Cannot read properties of undefined (reading 'enabled')
+2026-01-09 16:17:44.453 [error] [Extension Host] Failed to retrieve configuration properties TypeError: Cannot read properties of undefined (reading 'enabled')
+2026-01-09 16:17:44.513 [error] chatParticipant must be declared in package.json: claude-code
+2026-01-09 16:17:44.527 [error] [Extension Host] Failed to retrieve configuration properties TypeError: Cannot read properties of undefined (reading 'enabled')
+2026-01-09 16:17:52.633 [error] ScanningExtension: Cannot read the extension from /home/brooks/.vscode/extensions/github.copilot-chat-0.36.0
+    at Wh.scanLocalExtension (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:75322)
+    at async Hh.h (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:80564)
+2026-01-09 16:17:52.640 [error] Cannot read the extension from /home/brooks/.vscode/extensions/github.copilot-chat-0.36.0: ScanningExtension: Cannot read the extension from /home/brooks/.vscode/extensions/github.copilot-chat-0.36.0
+    at Wh.scanLocalExtension (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:75322)
+    at async Hh.h (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:80564)
+2026-01-09 16:17:58.629 [info] Auto updating outdated extensions. github.copilot-chat
+2026-01-09 16:18:12.655 [info] Started local extension host with pid 15482.
+2026-01-09 16:18:19.675 [info] Started local extension host with pid 15569.

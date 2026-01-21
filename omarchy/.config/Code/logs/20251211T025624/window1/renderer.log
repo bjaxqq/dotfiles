@@ -1,0 +1,121 @@
+2025-12-11 02:56:25.319 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-12-11 02:56:25.439 [info] Started local extension host with pid 92195.
+2025-12-11 02:56:25.809 [info] MCP Registry configured: https://api.mcp.github.com
+2025-12-11 02:56:25.947 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-12-11 02:56:28.004 [info] [perf] Render performance baseline is 16ms
+2025-12-11 02:56:52.010 [error] [salesforce.apex-language-server-extension]: property `icon` is mandatory and must be of type `string`
+2025-12-11 02:57:24.430 [error] An unknown error occurred. Please consult the log for more details.
+2025-12-11 02:57:30.438 [error] [Extension Host] (node:92195) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-12-11 02:57:34.667 [error] An unknown error occurred. Please consult the log for more details.
+2025-12-11 02:57:44.663 [error] An unknown error occurred. Please consult the log for more details.
+2025-12-11 02:57:54.680 [error] An unknown error occurred. Please consult the log for more details.
+2025-12-11 02:58:04.691 [error] An unknown error occurred. Please consult the log for more details.
+2025-12-11 02:58:14.696 [error] An unknown error occurred. Please consult the log for more details.
+2025-12-11 02:58:24.703 [error] An unknown error occurred. Please consult the log for more details.
+2025-12-11 02:58:34.127 [error] Unknown error while installing extension github.copilot-chat: Unknown: Unknown error while installing extension github.copilot-chat
+    at Wh.installFromGallery (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:1669)
+2025-12-11 02:58:35.292 [error] [Extension Host] (node:92195) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+2025-12-11 02:58:35.292 [error] An unknown error occurred. Please consult the log for more details.
+2025-12-11 02:58:36.827 [error] chatParticipant must be declared in package.json: claude-code
+2025-12-11 02:58:37.157 [error] Cannot read properties of undefined (reading 'selectedStep'): TypeError: Cannot read properties of undefined (reading 'selectedStep')
+    at Ple.value (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3604:32032)
+    at xb.C (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2392)
+    at xb.D (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2462)
+    at xb.fire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2680)
+    at xb.fire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:3775)
+    at Ple.value (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1361:26087)
+    at xb.C (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2392)
+    at xb.D (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2462)
+    at xb.fire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2680)
+    at xb.fire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:3775)
+2025-12-11 02:58:41.319 [info] Auto updating outdated extensions. github.copilot-chat
+2025-12-11 02:58:44.121 [error] Cannot read the extension from /home/brooks/.vscode/extensions/github.copilot-chat-0.35.0: ScanningExtension: Cannot read the extension from /home/brooks/.vscode/extensions/github.copilot-chat-0.35.0
+    at Gh.scanLocalExtension (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:75166)
+    at async Hh.h (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:80408)
+2025-12-11 02:58:45.538 [error] An unknown error occurred. Please consult the log for more details.
+2025-12-11 02:58:55.544 [error] An unknown error occurred. Please consult the log for more details.
+2025-12-11 02:58:57.214 [warning] SettingsEditor2: Settings not included in settingsLayout.ts: workbench.secondarySideBar.enableDefaultVisibilityInOldWorkspace, extensions.requestTimeout, github.copilot.chat.agent.terminal.allowList, github.copilot.chat.agent.terminal.denyList, terminal.integrated.developer.devMode, terminal.integrated.developer.ptyHost.latency, terminal.integrated.developer.ptyHost.startupDelay
+2025-12-11 02:59:05.571 [error] Cannot read properties of undefined (reading 'type'): TypeError: Cannot read properties of undefined (reading 'type')
+    at yk (/home/brooks/.vscode/extensions/github.copilot-chat-0.33.5/dist/extension.js:1095:3811)
+    at /home/brooks/.vscode/extensions/github.copilot-chat-0.33.5/dist/extension.js:1095:4059
+    at Array.map (<anonymous>)
+    at Qh (/home/brooks/.vscode/extensions/github.copilot-chat-0.33.5/dist/extension.js:1095:4035)
+    at dce.nClosestValues (/home/brooks/.vscode/extensions/github.copilot-chat-0.33.5/dist/extension.js:4044:7784)
+    at QK.provideSettingsSearchResults (/home/brooks/.vscode/extensions/github.copilot-chat-0.33.5/dist/extension.js:5759:868)
+2025-12-11 02:59:05.577 [error] An unknown error occurred. Please consult the log for more details.
+2025-12-11 02:59:15.582 [error] An unknown error occurred. Please consult the log for more details.
+2025-12-11 02:59:25.588 [error] An unknown error occurred. Please consult the log for more details.
+2025-12-11 02:59:35.091 [error] Cannot read properties of undefined (reading 'type'): TypeError: Cannot read properties of undefined (reading 'type')
+    at yk (/home/brooks/.vscode/extensions/github.copilot-chat-0.33.5/dist/extension.js:1095:3811)
+    at /home/brooks/.vscode/extensions/github.copilot-chat-0.33.5/dist/extension.js:1095:4059
+    at Array.map (<anonymous>)
+    at Qh (/home/brooks/.vscode/extensions/github.copilot-chat-0.33.5/dist/extension.js:1095:4035)
+    at dce.nClosestValues (/home/brooks/.vscode/extensions/github.copilot-chat-0.33.5/dist/extension.js:4044:7784)
+    at QK.provideSettingsSearchResults (/home/brooks/.vscode/extensions/github.copilot-chat-0.33.5/dist/extension.js:5759:868)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-12-11 02:59:35.590 [error] An unknown error occurred. Please consult the log for more details.
+2025-12-11 02:59:36.578 [error] Cannot read properties of undefined (reading 'type'): TypeError: Cannot read properties of undefined (reading 'type')
+    at yk (/home/brooks/.vscode/extensions/github.copilot-chat-0.33.5/dist/extension.js:1095:3811)
+    at /home/brooks/.vscode/extensions/github.copilot-chat-0.33.5/dist/extension.js:1095:4059
+    at Array.map (<anonymous>)
+    at Qh (/home/brooks/.vscode/extensions/github.copilot-chat-0.33.5/dist/extension.js:1095:4035)
+    at dce.nClosestValues (/home/brooks/.vscode/extensions/github.copilot-chat-0.33.5/dist/extension.js:4044:7784)
+    at QK.provideSettingsSearchResults (/home/brooks/.vscode/extensions/github.copilot-chat-0.33.5/dist/extension.js:5759:868)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-12-11 02:59:45.597 [error] An unknown error occurred. Please consult the log for more details.
+2025-12-11 02:59:54.106 [error] Cannot read properties of undefined (reading 'selectedStep'): TypeError: Cannot read properties of undefined (reading 'selectedStep')
+    at Ple.value (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3604:32032)
+    at xb.C (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2392)
+    at xb.D (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2462)
+    at xb.fire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2680)
+    at xb.fire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:3775)
+    at Ple.value (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1361:26087)
+    at xb.C (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2392)
+    at xb.D (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2462)
+    at xb.fire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2680)
+    at xb.fire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:3775)
+2025-12-11 02:59:55.606 [error] An unknown error occurred. Please consult the log for more details.
+2025-12-11 03:00:05.607 [error] An unknown error occurred. Please consult the log for more details.
+2025-12-11 03:00:10.171 [error] Cannot read properties of undefined (reading 'selectedStep'): TypeError: Cannot read properties of undefined (reading 'selectedStep')
+    at Ple.value (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3604:32032)
+    at xb.C (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2392)
+    at xb.D (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2462)
+    at xb.fire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2680)
+    at xb.fire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:3775)
+    at Ple.value (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1361:26087)
+    at xb.C (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2392)
+    at xb.D (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2462)
+    at xb.fire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2680)
+    at xb.fire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:3775)
+2025-12-11 03:00:10.768 [error] Failed to fetch MCP registry providers Server returned 404
+2025-12-11 03:00:11.187 [error] Failed to fetch MCP registry providers Server returned 404
+2025-12-11 03:00:15.606 [error] An unknown error occurred. Please consult the log for more details.
+2025-12-11 03:00:25.613 [error] An unknown error occurred. Please consult the log for more details.
+2025-12-11 03:00:35.629 [error] An unknown error occurred. Please consult the log for more details.
+2025-12-11 03:00:45.624 [error] An unknown error occurred. Please consult the log for more details.
+2025-12-11 03:00:55.622 [error] An unknown error occurred. Please consult the log for more details.
+2025-12-11 03:01:05.639 [error] An unknown error occurred. Please consult the log for more details.
+2025-12-11 03:01:15.643 [error] An unknown error occurred. Please consult the log for more details.
+2025-12-11 03:01:25.655 [error] An unknown error occurred. Please consult the log for more details.
+2025-12-11 03:01:35.658 [error] An unknown error occurred. Please consult the log for more details.
+2025-12-11 03:01:45.666 [error] An unknown error occurred. Please consult the log for more details.
+2025-12-11 03:01:55.677 [error] An unknown error occurred. Please consult the log for more details.
+2025-12-11 03:02:05.685 [error] An unknown error occurred. Please consult the log for more details.
+2025-12-11 03:02:15.691 [error] An unknown error occurred. Please consult the log for more details.
+2025-12-11 03:02:25.702 [error] An unknown error occurred. Please consult the log for more details.
+2025-12-11 03:02:35.707 [error] An unknown error occurred. Please consult the log for more details.
+2025-12-11 03:02:45.714 [error] An unknown error occurred. Please consult the log for more details.
+2025-12-11 03:02:55.723 [error] An unknown error occurred. Please consult the log for more details.
+2025-12-11 03:03:05.729 [error] An unknown error occurred. Please consult the log for more details.
+2025-12-11 03:03:15.738 [error] An unknown error occurred. Please consult the log for more details.
+2025-12-11 03:03:25.745 [error] An unknown error occurred. Please consult the log for more details.
+2025-12-11 03:03:35.753 [error] An unknown error occurred. Please consult the log for more details.
+2025-12-11 03:03:45.759 [error] An unknown error occurred. Please consult the log for more details.
+2025-12-11 03:03:55.769 [error] An unknown error occurred. Please consult the log for more details.
+2025-12-11 03:04:05.782 [error] An unknown error occurred. Please consult the log for more details.
+2025-12-11 03:04:15.790 [error] An unknown error occurred. Please consult the log for more details.
+2025-12-11 03:04:25.789 [error] An unknown error occurred. Please consult the log for more details.
+2025-12-11 03:04:35.792 [error] An unknown error occurred. Please consult the log for more details.
+2025-12-11 03:04:45.796 [error] An unknown error occurred. Please consult the log for more details.
+2025-12-11 03:04:55.812 [error] An unknown error occurred. Please consult the log for more details.

@@ -1,0 +1,14 @@
+2026-01-12 13:09:16.171 [error] Error: The editor could not be opened because the file was not found.
+    at fAe.gc (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2739:81749)
+    at async fAe.setInput (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2739:80907)
+    at async nQe.S (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:703:58490)
+    at async nQe.L (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:703:57050)
+    at async nQe.openEditor (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:703:56132)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:815:23355
+2026-01-12 13:09:16.201 [info] Started local extension host with pid 8930.
+2026-01-12 13:09:16.270 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-12 13:09:16.386 [info] MCP Registry configured: https://api.mcp.github.com
+2026-01-12 13:09:16.469 [error] [salesforce.apex-language-server-extension]: property `icon` is mandatory and must be of type `string`
+2026-01-12 13:09:16.731 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2026-01-12 13:09:17.347 [error] Failed to fetch MCP registry providers Server returned 404
+2026-01-12 13:09:18.899 [info] [perf] Render performance baseline is 16ms

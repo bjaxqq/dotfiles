@@ -1,0 +1,57 @@
+2025-12-11 03:18:50.329 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2025-12-11 03:18:50.339 [error] [/home/brooks/.vscode/extensions/github.copilot-chat-0.35.0]: Extension is not compatible with Code 1.106.3. Extension requires: ^1.107.0-20251119.
+2025-12-11 03:18:50.384 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2025-12-11 03:18:50.387 [error] [/home/brooks/.vscode/extensions/github.copilot-chat-0.35.0]: Extension is not compatible with Code 1.106.3. Extension requires: ^1.107.0-20251119.
+2025-12-11 03:18:50.394 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2025-12-11 03:18:50.396 [error] [/home/brooks/.vscode/extensions/github.copilot-chat-0.35.0]: Extension is not compatible with Code 1.106.3. Extension requires: ^1.107.0-20251119.
+2025-12-11 03:18:50.402 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2025-12-11 03:18:50.403 [error] [/home/brooks/.vscode/extensions/github.copilot-chat-0.35.0]: Extension is not compatible with Code 1.106.3. Extension requires: ^1.107.0-20251119.
+2025-12-11 03:18:50.411 [error] [/home/brooks/.vscode/extensions/github.copilot-chat-0.35.0]: Extension is not compatible with Code 1.106.3. Extension requires: ^1.107.0-20251119.
+2025-12-11 03:18:50.412 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2025-12-11 03:18:50.465 [info] visualstudioexptteam.vscodeintellicode 1.3.2 Running post uninstall script
+2025-12-11 03:18:50.471 [info] Marked extension as removed visualstudioexptteam.intellicode-api-usage-examples-0.2.9
+2025-12-11 03:18:50.473 [info] Marked extension as removed visualstudioexptteam.vscodeintellicode-1.3.2
+2025-12-11 03:18:50.557 [error] visualstudioexptteam.vscodeintellicode 1.3.2 post-uninstall node:internal/modules/cjs/loader:1393
+  throw err;
+  ^
+
+Error: Cannot find module '/home/brooks/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.3.2/dist/uninstall'
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1390:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1032:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1037:22)
+    at Module._load (node:internal/modules/cjs/loader:1199:37)
+    at c._load (node:electron/js2c/node_init:2:17993)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:244:24)
+    at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:186:5)
+    at node:internal/main/run_main_module:36:49 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+
+Node.js v22.20.0
+
+2025-12-11 03:18:50.557 [error] Failed to run post uninstall script visualstudioexptteam.vscodeintellicode 1.3.2
+2025-12-11 03:18:50.558 [error] post-uninstall process exited with code 1
+2025-12-11 03:18:50.579 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2025-12-11 03:18:50.584 [error] [/home/brooks/.vscode/extensions/github.copilot-chat-0.35.0]: Extension is not compatible with Code 1.106.3. Extension requires: ^1.107.0-20251119.
+2025-12-11 03:18:50.589 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2025-12-11 03:18:50.593 [error] [/home/brooks/.vscode/extensions/github.copilot-chat-0.35.0]: Extension is not compatible with Code 1.106.3. Extension requires: ^1.107.0-20251119.
+2025-12-11 03:18:50.761 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2025-12-11 03:18:50.770 [error] [/home/brooks/.vscode/extensions/github.copilot-chat-0.35.0]: Extension is not compatible with Code 1.106.3. Extension requires: ^1.107.0-20251119.
+2025-12-11 03:18:50.882 [info] Deleted marked for removal extension from disk visualstudioexptteam.vscodeintellicode /home/brooks/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.3.2
+2025-12-11 03:18:50.891 [info] Deleted marked for removal extension from disk visualstudioexptteam.intellicode-api-usage-examples /home/brooks/.vscode/extensions/visualstudioexptteam.intellicode-api-usage-examples-0.2.9
+2025-12-11 03:18:50.893 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2025-12-11 03:18:50.895 [error] [/home/brooks/.vscode/extensions/github.copilot-chat-0.35.0]: Extension is not compatible with Code 1.106.3. Extension requires: ^1.107.0-20251119.
+2025-12-11 03:18:50.954 [error] [/home/brooks/.vscode/extensions/github.copilot-chat-0.35.0]: Extension is not compatible with Code 1.106.3. Extension requires: ^1.107.0-20251119.
+2025-12-11 03:18:50.955 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2025-12-11 03:18:50.973 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2025-12-11 03:18:50.976 [error] [/home/brooks/.vscode/extensions/github.copilot-chat-0.35.0]: Extension is not compatible with Code 1.106.3. Extension requires: ^1.107.0-20251119.
+2025-12-11 03:18:51.031 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2025-12-11 03:18:51.033 [error] [/home/brooks/.vscode/extensions/github.copilot-chat-0.35.0]: Extension is not compatible with Code 1.106.3. Extension requires: ^1.107.0-20251119.
+2025-12-11 03:18:51.083 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2025-12-11 03:18:51.085 [error] [/home/brooks/.vscode/extensions/github.copilot-chat-0.35.0]: Extension is not compatible with Code 1.106.3. Extension requires: ^1.107.0-20251119.
+2025-12-11 03:18:52.408 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2025-12-11 03:18:52.412 [error] [/home/brooks/.vscode/extensions/github.copilot-chat-0.35.0]: Extension is not compatible with Code 1.106.3. Extension requires: ^1.107.0-20251119.
+2025-12-11 03:18:53.118 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2025-12-11 03:18:53.121 [error] [/home/brooks/.vscode/extensions/github.copilot-chat-0.35.0]: Extension is not compatible with Code 1.106.3. Extension requires: ^1.107.0-20251119.

@@ -1,0 +1,110 @@
+2026-01-09 16:17:18.682 [info] [GitExtensionServiceImpl] Initializing Git extension service.
+2026-01-09 16:17:18.682 [info] [GitExtensionServiceImpl] Successfully activated the vscode.git extension.
+2026-01-09 16:17:18.682 [info] [GitExtensionServiceImpl] Enablement state of the vscode.git extension: true.
+2026-01-09 16:17:18.682 [info] [GitExtensionServiceImpl] Successfully registered Git commit message provider.
+2026-01-09 16:17:18.695 [info] Logged in as bjaxqq
+2026-01-09 16:17:18.698 [info] Using the Electron fetcher.
+2026-01-09 16:17:18.972 [error] Copilot extension not found
+2026-01-09 16:17:18.988 [info] Creating node-pty shim: source=/opt/visual-studio-code/resources/app/node_modules/node-pty/build/Release, dest=/home/brooks/.vscode/extensions/github.copilot-chat-0.35.0/node_modules/@github/copilot/prebuilds/linux-x64
+2026-01-09 16:17:18.988 [info] Creating ripgrep shim: source=/opt/visual-studio-code/resources/app/node_modules/@vscode/ripgrep/bin, dest=/home/brooks/.vscode/extensions/github.copilot-chat-0.35.0/node_modules/@github/copilot/sdk/ripgrep/bin/linux-x64
+2026-01-09 16:17:19.030 [info] Got Copilot token for bjaxqq
+2026-01-09 16:17:19.030 [info] Copilot Chat: 0.35.0, VS Code: 1.107.1
+2026-01-09 16:17:19.037 [info] activationBlocker from 'languageModelAccess' took for 88ms
+2026-01-09 16:17:19.041 [info] Found 1 entries to copy: pty.node
+2026-01-09 16:17:19.048 [info] Found 1 entries to copy: rg
+2026-01-09 16:17:19.075 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2026-01-09 16:17:19.075 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2026-01-09 16:17:19.086 [info] Registering default platform agent...
+2026-01-09 16:17:19.087 [info] [code-referencing] Public code references are enabled.
+2026-01-09 16:17:19.087 [info] activationBlocker from 'conversationFeature' took for 141ms
+2026-01-09 16:17:19.109 [info] GithubAvailableEmbeddingTypesManager: Got embeddings. Primary: metis-1024-I16-Binary. Deprecated: 
+2026-01-09 16:17:19.110 [info] WorkspaceChunkSearchService: using embedding type metis-1024-I16-Binary
+2026-01-09 16:17:19.141 [info] BYOK: Copilot Chat known models list fetched successfully.
+2026-01-09 16:17:19.349 [info] Fetched model metadata in 389ms 9bfe0ca8-bbbe-4cd8-bb9a-a180ea40d136
+2026-01-09 16:17:19.358 [info] Latest entry: ccreq:latest.copilotmd
+2026-01-09 16:17:19.358 [info] ccreq:2def670a.copilotmd | markdown
+2026-01-09 16:17:24.920 [info] Refetch model metadata: Succeeded in 297ms 41697466-c8f9-4247-b293-c24ab979ffa9 (9C00:2A0B70:1D8EF7A:220DDC3:69617064) using node-fetch with status 200.
+2026-01-09 16:17:25.063 [info] Refetch model metadata: Succeeded in 143ms 627678e0-9e7f-487f-899e-77d904aab59d (9C06:17CA4:1E6E997:22E9591:69617064) using node-http with status 200.
+2026-01-09 16:17:25.254 [info] Refetch model metadata: Succeeded in 191ms abec7fbd-0087-4faf-bd75-3224d46f1513 (9C16:24CF52:1F31987:23AA92F:69617065) using electron-fetch with status 200.
+2026-01-09 16:17:35.402 [info] [GitExtensionServiceImpl] Initializing Git extension service.
+2026-01-09 16:17:35.495 [info] [GitExtensionServiceImpl] Successfully activated the vscode.git extension.
+2026-01-09 16:17:35.495 [info] [GitExtensionServiceImpl] Enablement state of the vscode.git extension: true.
+2026-01-09 16:17:35.495 [info] [GitExtensionServiceImpl] Successfully registered Git commit message provider.
+2026-01-09 16:17:35.503 [error] Error getting a session: Canceled: Canceled
+2026-01-09 16:17:35.507 [info] Logged in as bjaxqq
+2026-01-09 16:17:35.510 [info] Using the Electron fetcher.
+2026-01-09 16:17:35.721 [error] Copilot extension not found
+2026-01-09 16:17:35.751 [info] Creating node-pty shim: source=/opt/visual-studio-code/resources/app/node_modules/node-pty/build/Release, dest=/home/brooks/.vscode/extensions/github.copilot-chat-0.35.0/node_modules/@github/copilot/prebuilds/linux-x64
+2026-01-09 16:17:35.751 [info] Creating ripgrep shim: source=/opt/visual-studio-code/resources/app/node_modules/@vscode/ripgrep/bin, dest=/home/brooks/.vscode/extensions/github.copilot-chat-0.35.0/node_modules/@github/copilot/sdk/ripgrep/bin/linux-x64
+2026-01-09 16:17:35.755 [info] Found 1 entries to copy: pty.node
+2026-01-09 16:17:35.755 [info] Found 1 entries to copy: rg
+2026-01-09 16:17:35.899 [info] Got Copilot token for bjaxqq
+2026-01-09 16:17:35.899 [info] Copilot Chat: 0.35.0, VS Code: 1.107.1
+2026-01-09 16:17:35.906 [info] activationBlocker from 'languageModelAccess' took for 207ms
+2026-01-09 16:17:36.106 [info] Fetched model metadata in 396ms 2cf79b7c-2f32-4c76-ae0c-e8516d23106c
+2026-01-09 16:17:36.132 [info] Latest entry: ccreq:latest.copilotmd
+2026-01-09 16:17:36.133 [info] ccreq:c6352566.copilotmd | markdown
+2026-01-09 16:17:36.166 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2026-01-09 16:17:36.166 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2026-01-09 16:17:36.176 [info] Registering default platform agent...
+2026-01-09 16:17:36.177 [info] [code-referencing] Public code references are enabled.
+2026-01-09 16:17:36.177 [info] activationBlocker from 'conversationFeature' took for 483ms
+2026-01-09 16:17:36.178 [info] GithubAvailableEmbeddingTypesManager: Got embeddings. Primary: metis-1024-I16-Binary. Deprecated: 
+2026-01-09 16:17:36.180 [info] WorkspaceChunkSearchService: using embedding type metis-1024-I16-Binary
+2026-01-09 16:17:36.227 [info] BYOK: Copilot Chat known models list fetched successfully.
+2026-01-09 16:17:36.312 [info] Fetched model metadata in 146ms b444a29c-8ba2-4dc3-ad10-5b2e509da250
+2026-01-09 16:17:36.315 [info] ccreq:d510b031.copilotmd | markdown
+2026-01-09 16:17:41.583 [info] [GitExtensionServiceImpl] Initializing Git extension service.
+2026-01-09 16:17:41.667 [info] [GitExtensionServiceImpl] Successfully activated the vscode.git extension.
+2026-01-09 16:17:41.667 [info] [GitExtensionServiceImpl] Enablement state of the vscode.git extension: true.
+2026-01-09 16:17:41.667 [info] [GitExtensionServiceImpl] Successfully registered Git commit message provider.
+2026-01-09 16:17:41.674 [error] Error getting a session: Canceled: Canceled
+2026-01-09 16:17:41.677 [info] Logged in as bjaxqq
+2026-01-09 16:17:41.680 [info] Using the Electron fetcher.
+2026-01-09 16:17:41.826 [error] Copilot extension not found
+2026-01-09 16:17:41.839 [info] Creating node-pty shim: source=/opt/visual-studio-code/resources/app/node_modules/node-pty/build/Release, dest=/home/brooks/.vscode/extensions/github.copilot-chat-0.35.3/node_modules/@github/copilot/prebuilds/linux-x64
+2026-01-09 16:17:41.839 [info] Creating ripgrep shim: source=/opt/visual-studio-code/resources/app/node_modules/@vscode/ripgrep/bin, dest=/home/brooks/.vscode/extensions/github.copilot-chat-0.35.3/node_modules/@github/copilot/sdk/ripgrep/bin/linux-x64
+2026-01-09 16:17:41.849 [info] Found 1 entries to copy: pty.node
+2026-01-09 16:17:41.850 [info] Found 1 entries to copy: rg
+2026-01-09 16:17:42.029 [info] Got Copilot token for bjaxqq
+2026-01-09 16:17:42.029 [info] Copilot Chat: 0.35.3, VS Code: 1.107.1
+2026-01-09 16:17:42.037 [info] activationBlocker from 'languageModelAccess' took for 231ms
+2026-01-09 16:17:42.236 [info] Fetched model metadata in 420ms 8ec94648-9b05-41ac-a88f-0f498efc3004
+2026-01-09 16:17:42.259 [info] Latest entry: ccreq:latest.copilotmd
+2026-01-09 16:17:42.259 [info] ccreq:35acd0ee.copilotmd | markdown
+2026-01-09 16:17:42.291 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2026-01-09 16:17:42.291 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2026-01-09 16:17:42.302 [info] Registering default platform agent...
+2026-01-09 16:17:42.303 [info] [code-referencing] Public code references are enabled.
+2026-01-09 16:17:42.303 [info] activationBlocker from 'conversationFeature' took for 504ms
+2026-01-09 16:17:42.305 [info] GithubAvailableEmbeddingTypesManager: Got embeddings. Primary: metis-1024-I16-Binary. Deprecated: 
+2026-01-09 16:17:42.308 [info] WorkspaceChunkSearchService: using embedding type metis-1024-I16-Binary
+2026-01-09 16:17:42.354 [info] BYOK: Copilot Chat known models list fetched successfully.
+2026-01-09 16:17:42.386 [info] Fetched model metadata in 95ms 479563ee-4ed3-4e52-9590-dcaf2e6c72b2
+2026-01-09 16:17:42.392 [info] ccreq:4d001027.copilotmd | markdown
+2026-01-09 16:17:44.133 [info] [GitExtensionServiceImpl] Initializing Git extension service.
+2026-01-09 16:17:44.219 [info] [GitExtensionServiceImpl] Successfully activated the vscode.git extension.
+2026-01-09 16:17:44.219 [info] [GitExtensionServiceImpl] Enablement state of the vscode.git extension: true.
+2026-01-09 16:17:44.220 [info] [GitExtensionServiceImpl] Successfully registered Git commit message provider.
+2026-01-09 16:17:44.226 [error] Error getting a session: Canceled: Canceled
+2026-01-09 16:17:44.230 [info] Logged in as bjaxqq
+2026-01-09 16:17:44.233 [info] Using the Electron fetcher.
+2026-01-09 16:17:44.477 [error] Copilot extension not found
+2026-01-09 16:17:44.513 [info] Creating node-pty shim: source=/opt/visual-studio-code/resources/app/node_modules/node-pty/build/Release, dest=/home/brooks/.vscode/extensions/github.copilot-chat-0.35.3/node_modules/@github/copilot/prebuilds/linux-x64
+2026-01-09 16:17:44.513 [info] Creating ripgrep shim: source=/opt/visual-studio-code/resources/app/node_modules/@vscode/ripgrep/bin, dest=/home/brooks/.vscode/extensions/github.copilot-chat-0.35.3/node_modules/@github/copilot/sdk/ripgrep/bin/linux-x64
+2026-01-09 16:17:44.527 [info] Got Copilot token for bjaxqq
+2026-01-09 16:17:44.527 [info] Copilot Chat: 0.35.3, VS Code: 1.107.1
+2026-01-09 16:17:44.534 [info] activationBlocker from 'languageModelAccess' took for 77ms
+2026-01-09 16:17:44.539 [info] Found 1 entries to copy: pty.node
+2026-01-09 16:17:44.539 [info] Found 1 entries to copy: rg
+2026-01-09 16:17:44.579 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2026-01-09 16:17:44.579 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2026-01-09 16:17:44.589 [info] Registering default platform agent...
+2026-01-09 16:17:44.589 [info] [code-referencing] Public code references are enabled.
+2026-01-09 16:17:44.589 [info] activationBlocker from 'conversationFeature' took for 136ms
+2026-01-09 16:17:44.726 [info] Fetched model metadata in 259ms 88ec22fb-88d7-4c82-b0cd-eed1cc31f04c
+2026-01-09 16:17:44.728 [info] BYOK: Copilot Chat known models list fetched successfully.
+2026-01-09 16:17:44.731 [info] Latest entry: ccreq:latest.copilotmd
+2026-01-09 16:17:44.732 [info] ccreq:fbe47f41.copilotmd | markdown
+2026-01-09 16:17:44.737 [info] GithubAvailableEmbeddingTypesManager: Got embeddings. Primary: metis-1024-I16-Binary. Deprecated: 
+2026-01-09 16:17:44.739 [info] WorkspaceChunkSearchService: using embedding type metis-1024-I16-Binary

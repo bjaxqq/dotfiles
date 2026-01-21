@@ -1,0 +1,172 @@
+2025-12-11 02:56:25.785 [info] Extension host with pid 92195 started
+2025-12-11 02:56:25.785 [info] Skipping acquiring lock for /home/brooks/.config/Code/User/workspaceStorage/3b2083a2d44520271219b3a9dd432599.
+2025-12-11 02:56:25.799 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-12-11 02:56:25.816 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-12-11 02:56:25.980 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-12-11 02:56:25.986 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-12-11 02:56:26.020 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-12-11 02:56:26.103 [info] Eager extensions activated
+2025-12-11 02:56:26.104 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-12-11 02:56:26.105 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-12-11 02:56:27.920 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-12-11 02:56:27.925 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-12-11 02:56:27.965 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-12-11 02:56:38.695 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2025-12-11 02:57:13.307 [info] ExtensionService#_doActivateExtension vscjava.vscode-java-pack, startup: false, activationEvent: 'onWalkthrough:javaWelcome'
+2025-12-11 02:57:24.430 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, scandir '/home/brooks/.config/Code/User/workspaceStorage/3b2083a2d44520271219b3a9dd432599/redhat.java'
+	at Ms.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:18064)
+	at Object.readDirectory (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:16201)
+2025-12-11 02:57:24.521 [error] Error: ENOENT: no such file or directory, open '/home/brooks/.config/Code/User/workspaceStorage/3b2083a2d44520271219b3a9dd432599/redhat.java/jdt_ws/.metadata/.log'
+	at async open (node:internal/fs/promises:642:25)
+	at async Object.readFile (node:internal/fs/promises:1251:14)
+2025-12-11 02:57:30.359 [info] ExtensionService#_doActivateExtension ms-vscode.cpptools, startup: false, activationEvent: 'onWalkthrough:cppWelcome'
+2025-12-11 02:57:34.667 [error] Error: ENOENT: no such file or directory, open '/home/brooks/.config/Code/User/workspaceStorage/3b2083a2d44520271219b3a9dd432599/redhat.java/jdt_ws/.metadata/.log'
+	at async open (node:internal/fs/promises:642:25)
+	at async Object.readFile (node:internal/fs/promises:1251:14)
+2025-12-11 02:57:44.662 [error] Error: ENOENT: no such file or directory, open '/home/brooks/.config/Code/User/workspaceStorage/3b2083a2d44520271219b3a9dd432599/redhat.java/jdt_ws/.metadata/.log'
+	at async open (node:internal/fs/promises:642:25)
+	at async Object.readFile (node:internal/fs/promises:1251:14)
+2025-12-11 02:57:54.680 [error] Error: ENOENT: no such file or directory, open '/home/brooks/.config/Code/User/workspaceStorage/3b2083a2d44520271219b3a9dd432599/redhat.java/jdt_ws/.metadata/.log'
+	at async open (node:internal/fs/promises:642:25)
+	at async Object.readFile (node:internal/fs/promises:1251:14)
+2025-12-11 02:58:04.690 [error] Error: ENOENT: no such file or directory, open '/home/brooks/.config/Code/User/workspaceStorage/3b2083a2d44520271219b3a9dd432599/redhat.java/jdt_ws/.metadata/.log'
+	at async open (node:internal/fs/promises:642:25)
+	at async Object.readFile (node:internal/fs/promises:1251:14)
+2025-12-11 02:58:14.693 [error] Error: ENOENT: no such file or directory, open '/home/brooks/.config/Code/User/workspaceStorage/3b2083a2d44520271219b3a9dd432599/redhat.java/jdt_ws/.metadata/.log'
+	at async open (node:internal/fs/promises:642:25)
+	at async Object.readFile (node:internal/fs/promises:1251:14)
+2025-12-11 02:58:17.494 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: false, activationEvent: 'onStartupFinished'
+2025-12-11 02:58:24.702 [error] Error: ENOENT: no such file or directory, open '/home/brooks/.config/Code/User/workspaceStorage/3b2083a2d44520271219b3a9dd432599/redhat.java/jdt_ws/.metadata/.log'
+	at async open (node:internal/fs/promises:642:25)
+	at async Object.readFile (node:internal/fs/promises:1251:14)
+2025-12-11 02:58:34.710 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2025-12-11 02:58:35.292 [error] Error: ENOENT: no such file or directory, open '/home/brooks/.config/Code/User/workspaceStorage/3b2083a2d44520271219b3a9dd432599/redhat.java/jdt_ws/.metadata/.log'
+	at async open (node:internal/fs/promises:642:25)
+	at async Object.readFile (node:internal/fs/promises:1251:14)
+2025-12-11 02:58:35.292 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2025-12-11 02:58:36.451 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2025-12-11 02:58:36.822 [error] Error: chatParticipant must be declared in package.json: claude-code
+    at QKt.$registerAgent (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:511:6057)
+2025-12-11 02:58:45.538 [error] Error: ENOENT: no such file or directory, open '/home/brooks/.config/Code/User/workspaceStorage/3b2083a2d44520271219b3a9dd432599/redhat.java/jdt_ws/.metadata/.log'
+    at open (node:internal/fs/promises:642:25)
+    at Object.readFile (node:internal/fs/promises:1251:14)
+2025-12-11 02:58:55.543 [error] Error: ENOENT: no such file or directory, open '/home/brooks/.config/Code/User/workspaceStorage/3b2083a2d44520271219b3a9dd432599/redhat.java/jdt_ws/.metadata/.log'
+    at open (node:internal/fs/promises:642:25)
+    at Object.readFile (node:internal/fs/promises:1251:14)
+2025-12-11 02:59:05.577 [error] Error: ENOENT: no such file or directory, open '/home/brooks/.config/Code/User/workspaceStorage/3b2083a2d44520271219b3a9dd432599/redhat.java/jdt_ws/.metadata/.log'
+    at open (node:internal/fs/promises:642:25)
+    at Object.readFile (node:internal/fs/promises:1251:14)
+2025-12-11 02:59:15.581 [error] Error: ENOENT: no such file or directory, open '/home/brooks/.config/Code/User/workspaceStorage/3b2083a2d44520271219b3a9dd432599/redhat.java/jdt_ws/.metadata/.log'
+    at open (node:internal/fs/promises:642:25)
+    at Object.readFile (node:internal/fs/promises:1251:14)
+2025-12-11 02:59:25.587 [error] Error: ENOENT: no such file or directory, open '/home/brooks/.config/Code/User/workspaceStorage/3b2083a2d44520271219b3a9dd432599/redhat.java/jdt_ws/.metadata/.log'
+    at open (node:internal/fs/promises:642:25)
+    at Object.readFile (node:internal/fs/promises:1251:14)
+2025-12-11 02:59:35.589 [error] Error: ENOENT: no such file or directory, open '/home/brooks/.config/Code/User/workspaceStorage/3b2083a2d44520271219b3a9dd432599/redhat.java/jdt_ws/.metadata/.log'
+    at open (node:internal/fs/promises:642:25)
+    at Object.readFile (node:internal/fs/promises:1251:14)
+2025-12-11 02:59:45.597 [error] Error: ENOENT: no such file or directory, open '/home/brooks/.config/Code/User/workspaceStorage/3b2083a2d44520271219b3a9dd432599/redhat.java/jdt_ws/.metadata/.log'
+    at open (node:internal/fs/promises:642:25)
+    at Object.readFile (node:internal/fs/promises:1251:14)
+2025-12-11 02:59:55.605 [error] Error: ENOENT: no such file or directory, open '/home/brooks/.config/Code/User/workspaceStorage/3b2083a2d44520271219b3a9dd432599/redhat.java/jdt_ws/.metadata/.log'
+    at open (node:internal/fs/promises:642:25)
+    at Object.readFile (node:internal/fs/promises:1251:14)
+2025-12-11 03:00:05.607 [error] Error: ENOENT: no such file or directory, open '/home/brooks/.config/Code/User/workspaceStorage/3b2083a2d44520271219b3a9dd432599/redhat.java/jdt_ws/.metadata/.log'
+    at open (node:internal/fs/promises:642:25)
+    at Object.readFile (node:internal/fs/promises:1251:14)
+2025-12-11 03:00:15.606 [error] Error: ENOENT: no such file or directory, open '/home/brooks/.config/Code/User/workspaceStorage/3b2083a2d44520271219b3a9dd432599/redhat.java/jdt_ws/.metadata/.log'
+    at open (node:internal/fs/promises:642:25)
+    at Object.readFile (node:internal/fs/promises:1251:14)
+2025-12-11 03:00:25.613 [error] Error: ENOENT: no such file or directory, open '/home/brooks/.config/Code/User/workspaceStorage/3b2083a2d44520271219b3a9dd432599/redhat.java/jdt_ws/.metadata/.log'
+    at open (node:internal/fs/promises:642:25)
+    at Object.readFile (node:internal/fs/promises:1251:14)
+2025-12-11 03:00:35.629 [error] Error: ENOENT: no such file or directory, open '/home/brooks/.config/Code/User/workspaceStorage/3b2083a2d44520271219b3a9dd432599/redhat.java/jdt_ws/.metadata/.log'
+    at open (node:internal/fs/promises:642:25)
+    at Object.readFile (node:internal/fs/promises:1251:14)
+2025-12-11 03:00:45.624 [error] Error: ENOENT: no such file or directory, open '/home/brooks/.config/Code/User/workspaceStorage/3b2083a2d44520271219b3a9dd432599/redhat.java/jdt_ws/.metadata/.log'
+    at open (node:internal/fs/promises:642:25)
+    at Object.readFile (node:internal/fs/promises:1251:14)
+2025-12-11 03:00:55.622 [error] Error: ENOENT: no such file or directory, open '/home/brooks/.config/Code/User/workspaceStorage/3b2083a2d44520271219b3a9dd432599/redhat.java/jdt_ws/.metadata/.log'
+    at open (node:internal/fs/promises:642:25)
+    at Object.readFile (node:internal/fs/promises:1251:14)
+2025-12-11 03:01:05.639 [error] Error: ENOENT: no such file or directory, open '/home/brooks/.config/Code/User/workspaceStorage/3b2083a2d44520271219b3a9dd432599/redhat.java/jdt_ws/.metadata/.log'
+    at open (node:internal/fs/promises:642:25)
+    at Object.readFile (node:internal/fs/promises:1251:14)
+2025-12-11 03:01:15.642 [error] Error: ENOENT: no such file or directory, open '/home/brooks/.config/Code/User/workspaceStorage/3b2083a2d44520271219b3a9dd432599/redhat.java/jdt_ws/.metadata/.log'
+    at open (node:internal/fs/promises:642:25)
+    at Object.readFile (node:internal/fs/promises:1251:14)
+2025-12-11 03:01:25.655 [error] Error: ENOENT: no such file or directory, open '/home/brooks/.config/Code/User/workspaceStorage/3b2083a2d44520271219b3a9dd432599/redhat.java/jdt_ws/.metadata/.log'
+    at open (node:internal/fs/promises:642:25)
+    at Object.readFile (node:internal/fs/promises:1251:14)
+2025-12-11 03:01:35.658 [error] Error: ENOENT: no such file or directory, open '/home/brooks/.config/Code/User/workspaceStorage/3b2083a2d44520271219b3a9dd432599/redhat.java/jdt_ws/.metadata/.log'
+    at open (node:internal/fs/promises:642:25)
+    at Object.readFile (node:internal/fs/promises:1251:14)
+2025-12-11 03:01:45.665 [error] Error: ENOENT: no such file or directory, open '/home/brooks/.config/Code/User/workspaceStorage/3b2083a2d44520271219b3a9dd432599/redhat.java/jdt_ws/.metadata/.log'
+    at open (node:internal/fs/promises:642:25)
+    at Object.readFile (node:internal/fs/promises:1251:14)
+2025-12-11 03:01:55.676 [error] Error: ENOENT: no such file or directory, open '/home/brooks/.config/Code/User/workspaceStorage/3b2083a2d44520271219b3a9dd432599/redhat.java/jdt_ws/.metadata/.log'
+    at open (node:internal/fs/promises:642:25)
+    at Object.readFile (node:internal/fs/promises:1251:14)
+2025-12-11 03:02:05.684 [error] Error: ENOENT: no such file or directory, open '/home/brooks/.config/Code/User/workspaceStorage/3b2083a2d44520271219b3a9dd432599/redhat.java/jdt_ws/.metadata/.log'
+    at open (node:internal/fs/promises:642:25)
+    at Object.readFile (node:internal/fs/promises:1251:14)
+2025-12-11 03:02:15.690 [error] Error: ENOENT: no such file or directory, open '/home/brooks/.config/Code/User/workspaceStorage/3b2083a2d44520271219b3a9dd432599/redhat.java/jdt_ws/.metadata/.log'
+    at open (node:internal/fs/promises:642:25)
+    at Object.readFile (node:internal/fs/promises:1251:14)
+2025-12-11 03:02:25.701 [error] Error: ENOENT: no such file or directory, open '/home/brooks/.config/Code/User/workspaceStorage/3b2083a2d44520271219b3a9dd432599/redhat.java/jdt_ws/.metadata/.log'
+    at open (node:internal/fs/promises:642:25)
+    at Object.readFile (node:internal/fs/promises:1251:14)
+2025-12-11 03:02:35.707 [error] Error: ENOENT: no such file or directory, open '/home/brooks/.config/Code/User/workspaceStorage/3b2083a2d44520271219b3a9dd432599/redhat.java/jdt_ws/.metadata/.log'
+    at open (node:internal/fs/promises:642:25)
+    at Object.readFile (node:internal/fs/promises:1251:14)
+2025-12-11 03:02:45.714 [error] Error: ENOENT: no such file or directory, open '/home/brooks/.config/Code/User/workspaceStorage/3b2083a2d44520271219b3a9dd432599/redhat.java/jdt_ws/.metadata/.log'
+    at open (node:internal/fs/promises:642:25)
+    at Object.readFile (node:internal/fs/promises:1251:14)
+2025-12-11 03:02:55.722 [error] Error: ENOENT: no such file or directory, open '/home/brooks/.config/Code/User/workspaceStorage/3b2083a2d44520271219b3a9dd432599/redhat.java/jdt_ws/.metadata/.log'
+    at open (node:internal/fs/promises:642:25)
+    at Object.readFile (node:internal/fs/promises:1251:14)
+2025-12-11 03:03:05.729 [error] Error: ENOENT: no such file or directory, open '/home/brooks/.config/Code/User/workspaceStorage/3b2083a2d44520271219b3a9dd432599/redhat.java/jdt_ws/.metadata/.log'
+    at open (node:internal/fs/promises:642:25)
+    at Object.readFile (node:internal/fs/promises:1251:14)
+2025-12-11 03:03:15.738 [error] Error: ENOENT: no such file or directory, open '/home/brooks/.config/Code/User/workspaceStorage/3b2083a2d44520271219b3a9dd432599/redhat.java/jdt_ws/.metadata/.log'
+    at open (node:internal/fs/promises:642:25)
+    at Object.readFile (node:internal/fs/promises:1251:14)
+2025-12-11 03:03:25.745 [error] Error: ENOENT: no such file or directory, open '/home/brooks/.config/Code/User/workspaceStorage/3b2083a2d44520271219b3a9dd432599/redhat.java/jdt_ws/.metadata/.log'
+    at open (node:internal/fs/promises:642:25)
+    at Object.readFile (node:internal/fs/promises:1251:14)
+2025-12-11 03:03:35.753 [error] Error: ENOENT: no such file or directory, open '/home/brooks/.config/Code/User/workspaceStorage/3b2083a2d44520271219b3a9dd432599/redhat.java/jdt_ws/.metadata/.log'
+    at open (node:internal/fs/promises:642:25)
+    at Object.readFile (node:internal/fs/promises:1251:14)
+2025-12-11 03:03:45.759 [error] Error: ENOENT: no such file or directory, open '/home/brooks/.config/Code/User/workspaceStorage/3b2083a2d44520271219b3a9dd432599/redhat.java/jdt_ws/.metadata/.log'
+    at open (node:internal/fs/promises:642:25)
+    at Object.readFile (node:internal/fs/promises:1251:14)
+2025-12-11 03:03:55.769 [error] Error: ENOENT: no such file or directory, open '/home/brooks/.config/Code/User/workspaceStorage/3b2083a2d44520271219b3a9dd432599/redhat.java/jdt_ws/.metadata/.log'
+    at open (node:internal/fs/promises:642:25)
+    at Object.readFile (node:internal/fs/promises:1251:14)
+2025-12-11 03:04:05.782 [error] Error: ENOENT: no such file or directory, open '/home/brooks/.config/Code/User/workspaceStorage/3b2083a2d44520271219b3a9dd432599/redhat.java/jdt_ws/.metadata/.log'
+    at open (node:internal/fs/promises:642:25)
+    at Object.readFile (node:internal/fs/promises:1251:14)
+2025-12-11 03:04:15.790 [error] Error: ENOENT: no such file or directory, open '/home/brooks/.config/Code/User/workspaceStorage/3b2083a2d44520271219b3a9dd432599/redhat.java/jdt_ws/.metadata/.log'
+    at open (node:internal/fs/promises:642:25)
+    at Object.readFile (node:internal/fs/promises:1251:14)
+2025-12-11 03:04:25.789 [error] Error: ENOENT: no such file or directory, open '/home/brooks/.config/Code/User/workspaceStorage/3b2083a2d44520271219b3a9dd432599/redhat.java/jdt_ws/.metadata/.log'
+    at open (node:internal/fs/promises:642:25)
+    at Object.readFile (node:internal/fs/promises:1251:14)
+2025-12-11 03:04:35.792 [error] Error: ENOENT: no such file or directory, open '/home/brooks/.config/Code/User/workspaceStorage/3b2083a2d44520271219b3a9dd432599/redhat.java/jdt_ws/.metadata/.log'
+    at open (node:internal/fs/promises:642:25)
+    at Object.readFile (node:internal/fs/promises:1251:14)
+2025-12-11 03:04:45.796 [error] Error: ENOENT: no such file or directory, open '/home/brooks/.config/Code/User/workspaceStorage/3b2083a2d44520271219b3a9dd432599/redhat.java/jdt_ws/.metadata/.log'
+    at open (node:internal/fs/promises:642:25)
+    at Object.readFile (node:internal/fs/promises:1251:14)
+2025-12-11 03:04:55.811 [error] Error: ENOENT: no such file or directory, open '/home/brooks/.config/Code/User/workspaceStorage/3b2083a2d44520271219b3a9dd432599/redhat.java/jdt_ws/.metadata/.log'
+    at open (node:internal/fs/promises:642:25)
+    at Object.readFile (node:internal/fs/promises:1251:14)
+2025-12-11 03:04:59.313 [info] Extension host terminating: renderer closed the MessagePort
+2025-12-11 03:04:59.380 [error] Error: Channel has been closed
+    at n (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:2816)
+    at Object.info (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:3161)
+    at T.info (/opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:2:45257)
+    at ChildProcess.<anonymous> (/opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:2:600506)
+    at ChildProcess.emit (node:events:519:28)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-12-11 03:04:59.381 [info] Extension host with pid 92195 exiting with code 0

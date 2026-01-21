@@ -1,0 +1,48 @@
+2025-12-11 02:58:36.737 [info] [GitExtensionServiceImpl] Initializing Git extension service.
+2025-12-11 02:58:36.737 [info] [GitExtensionServiceImpl] Successfully activated the vscode.git extension.
+2025-12-11 02:58:36.737 [info] [GitExtensionServiceImpl] Enablement state of the vscode.git extension: true.
+2025-12-11 02:58:36.737 [info] [GitExtensionServiceImpl] Successfully registered Git commit message provider.
+2025-12-11 02:58:37.061 [info] Allowing anonymous access with devDeviceId
+2025-12-11 02:58:37.062 [info] Using the Electron fetcher.
+2025-12-11 02:58:37.151 [info] Got Copilot token for devDeviceId
+2025-12-11 02:58:37.151 [info] Copilot Chat: 0.33.5, VS Code: 1.106.3
+2025-12-11 02:58:37.157 [info] activationBlocker from 'languageModelAccess' took for 346ms
+2025-12-11 02:58:37.256 [info] Fetched model metadata in 436ms 192f5f62-e44d-4367-8b2e-fe621bce9db0
+2025-12-11 02:58:37.257 [info] Latest entry: ccreq:latest.copilotmd
+2025-12-11 02:58:37.258 [info] ccreq:876c7adf.copilotmd | markdown
+2025-12-11 02:58:38.695 [info] copilot token chat_enabled: true, sku: no_auth_limited_copilot
+2025-12-11 02:58:38.695 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2025-12-11 02:58:38.704 [warning] Unable to fetch remote agents because user is not signed in.
+2025-12-11 02:58:38.705 [info] copilot token chat_enabled: true, sku: no_auth_limited_copilot
+2025-12-11 02:58:38.705 [info] activationBlocker from 'conversationFeature' took for 1897ms
+2025-12-11 02:58:38.739 [info] Fetched model metadata in 44ms ef3329f2-f292-45eb-ae6d-48aa67bb8df1
+2025-12-11 02:58:38.741 [info] ccreq:ea43bb2e.copilotmd | markdown
+2025-12-11 02:58:42.346 [info] Refetch model metadata: Succeeded in 81ms 453f7e8d-ba62-4582-ad60-c3d5c2d4ead9 (E744:15DFB0:7AC881:90C25B:693A79B2) using node-http with status 403.
+2025-12-11 02:58:42.419 [info] Refetch model metadata: Succeeded in 73ms fb132153-fe0b-4781-8259-0c9f245bfb3c (E74C:D4491:77ECA4:8DEBA4:693A79B2) using electron-fetch with status 403.
+2025-12-11 02:58:42.500 [info] Refetch model metadata: Succeeded in 80ms 4216cbfb-26a4-412b-ae40-78c26ad3a2fe (E754:1D038A:78AF07:8EABEB:693A79B2) using node-fetch with status 403.
+2025-12-11 03:00:10.182 [info] Registering default platform agent...
+2025-12-11 03:00:10.200 [info] Logged in as bjaxqq
+2025-12-11 03:00:10.505 [info] Got Copilot token for bjaxqq
+2025-12-11 03:00:10.505 [info] Copilot Chat: 0.33.5, VS Code: 1.106.3
+2025-12-11 03:00:10.523 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-12-11 03:00:10.523 [info] [code-referencing] Public code references are enabled.
+2025-12-11 03:00:10.560 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-12-11 03:00:10.691 [info] Fetched model metadata in 168ms 1b54c552-fc58-43fa-b8f9-e33d0fb6d3af
+2025-12-11 03:00:10.691 [info] ccreq:14700448.copilotmd | markdown
+2025-12-11 03:04:24.688 [info] message 0 returned. finish reason: [stop]
+2025-12-11 03:04:24.688 [info] request done: requestId: [c6ec48a2-8a57-4ecd-822a-7a0a6c761041] model deployment ID: []
+2025-12-11 03:04:24.689 [info] ccreq:86f5880a.copilotmd | success | copilot-nes-oct -> gpt-4.1-mini-2025-04-14 | 708ms | [XtabProvider]
+2025-12-11 03:04:25.692 [info] ccreq:5709ceb8.copilotmd | markdown
+2025-12-11 03:04:26.476 [info] ccreq:971b939c.copilotmd | markdown
+2025-12-11 03:04:28.667 [info] message 0 returned. finish reason: [stop]
+2025-12-11 03:04:28.667 [info] request done: requestId: [deb30b9d-6ca3-47e7-962b-d5ec738f4304] model deployment ID: []
+2025-12-11 03:04:28.667 [info] ccreq:afa1cc5b.copilotmd | success | copilot-nes-oct -> gpt-4.1-mini-2025-04-14 | 702ms | [XtabProvider]
+2025-12-11 03:04:28.668 [info] ccreq:f1f8056b.copilotmd | markdown
+2025-12-11 03:04:29.283 [info] ccreq:033c3b35.copilotmd | markdown
+2025-12-11 03:04:31.226 [info] message 0 returned. finish reason: [stop]
+2025-12-11 03:04:31.226 [info] request done: requestId: [5837c4a1-4d1c-4998-8609-ddd55a770e04] model deployment ID: []
+2025-12-11 03:04:31.227 [info] ccreq:20711d8e.copilotmd | success | copilot-nes-oct -> gpt-4.1-mini-2025-04-14 | 562ms | [XtabProvider]
+2025-12-11 03:04:31.228 [info] ccreq:e7b35f89.copilotmd | markdown
+2025-12-11 03:04:58.752 [info] message 0 returned. finish reason: [stop]
+2025-12-11 03:04:58.752 [info] request done: requestId: [c7f7bd96-46e1-4c4f-b3b1-ae623ff91782] model deployment ID: []
+2025-12-11 03:04:58.753 [info] ccreq:380411f3.copilotmd | success | copilot-nes-oct -> gpt-4.1-mini-2025-04-14 | 610ms | [XtabProvider]

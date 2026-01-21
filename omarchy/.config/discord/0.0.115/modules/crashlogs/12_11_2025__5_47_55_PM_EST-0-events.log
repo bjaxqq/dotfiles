@@ -1,0 +1,23 @@
+12/11/2025, 5:47:55 PM EST 0: 
+
+----------------------------------------------
+12/11/2025, 5:47:55 PM EST 1: Discord starting: {"releaseChannel":"stable","version":"0.0.115"}, modulepath: /home/brooks/.config/discord/0.0.115/modules
+12/11/2025, 5:47:55 PM EST 2: ✅ webContents.created web1 "index.html"
+12/11/2025, 5:47:55 PM EST 3: ✅ window.created win1 "discord"
+12/11/2025, 5:47:55 PM EST 4: ✅ webContents.did-finish-load web1
+12/11/2025, 5:48:02 PM EST 5: window.close win1
+12/11/2025, 6:18:33 PM EST 0: 
+
+----------------------------------------------
+12/11/2025, 6:18:33 PM EST 1: Discord starting: {"releaseChannel":"stable","version":"0.0.115"}, modulepath: /home/brooks/.config/discord/0.0.115/modules
+12/11/2025, 6:18:33 PM EST 2: ✅ webContents.created web1 "index.html"
+12/11/2025, 6:18:33 PM EST 3: ✅ window.created win1 "discord"
+12/11/2025, 6:18:33 PM EST 4: ✅ webContents.did-finish-load web1
+12/11/2025, 6:19:11 PM EST 5: window.close win1
+12/11/2025, 6:21:04 PM EST 0: 
+
+----------------------------------------------
+12/11/2025, 6:21:04 PM EST 1: Discord starting: {"releaseChannel":"stable","version":"0.0.115"}, modulepath: /home/brooks/.config/discord/0.0.115/modules
+12/11/2025, 6:21:04 PM EST 2: ✅ webContents.created web1 "Discord Updater"
+12/11/2025, 6:21:04 PM EST 3: ✅ window.created win1 "Discord Updater"
+12/11/2025, 6:21:06 PM EST 4: window.close win1

@@ -1,0 +1,1 @@
+/home/brooks/.config/omarchy/current/theme/neovim.lua

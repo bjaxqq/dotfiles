@@ -1,0 +1,78 @@
+2026-01-12 13:03:25.740 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-12 13:03:25.936 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-12 13:03:25.939 [error] [/home/brooks/.vscode/extensions/github.copilot-chat-0.36.0]: Extension is not compatible with Code 1.107.1. Extension requires: ^1.108.0.
+2026-01-12 13:03:25.948 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-12 13:03:25.956 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-12 13:03:26.249 [info] github.copilot 1.388.0 Running post uninstall script
+2026-01-12 13:03:26.263 [error] [/home/brooks/.vscode/extensions/github.copilot-chat-0.36.0]: Extension is not compatible with Code 1.107.1. Extension requires: ^1.108.0.
+2026-01-12 13:03:26.264 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-12 13:03:26.282 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-12 13:03:26.498 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-12 13:03:26.516 [info] Marked extension as removed github.copilot-1.388.0
+2026-01-12 13:03:26.516 [info] Marked extension as removed github.copilot-chat-0.33.5
+2026-01-12 13:03:26.516 [info] Marked extension as removed github.copilot-chat-0.35.0
+2026-01-12 13:03:26.516 [info] Marked extension as removed github.copilot-chat-0.35.3
+2026-01-12 13:03:26.516 [info] Marked extension as removed github.copilot-chat-0.36.0
+2026-01-12 13:03:26.516 [info] Marked extension as removed ms-python.debugpy-2025.16.0
+2026-01-12 13:03:26.516 [info] Marked extension as removed ms-python.python-2025.20.0-linux-x64
+2026-01-12 13:03:26.516 [info] Marked extension as removed ms-python.vscode-python-envs-1.12.0-linux-x64
+2026-01-12 13:03:26.516 [info] Marked extension as removed redhat.java-1.50.0-linux-x64
+2026-01-12 13:03:26.516 [info] Marked extension as removed salesforce.salesforcedx-vscode-65.8.1
+2026-01-12 13:03:26.517 [info] Marked extension as removed salesforce.salesforcedx-vscode-apex-65.8.1
+2026-01-12 13:03:26.517 [info] Marked extension as removed salesforce.salesforcedx-vscode-apex-oas-65.8.1
+2026-01-12 13:03:26.517 [info] Marked extension as removed salesforce.salesforcedx-vscode-apex-replay-debugger-65.8.1
+2026-01-12 13:03:26.517 [info] Marked extension as removed salesforce.salesforcedx-vscode-core-65.8.1
+2026-01-12 13:03:26.517 [info] Marked extension as removed salesforce.salesforcedx-vscode-lightning-65.8.1
+2026-01-12 13:03:26.517 [info] Marked extension as removed salesforce.salesforcedx-vscode-lwc-65.8.1
+2026-01-12 13:03:26.517 [info] Marked extension as removed salesforce.salesforcedx-vscode-org-65.8.1
+2026-01-12 13:03:26.517 [info] Marked extension as removed salesforce.salesforcedx-vscode-soql-65.8.1
+2026-01-12 13:03:26.517 [info] Marked extension as removed salesforce.salesforcedx-vscode-visualforce-65.8.1
+2026-01-12 13:03:26.517 [info] Marked extension as removed salesforce.sfdx-code-analyzer-vscode-1.13.0
+2026-01-12 13:03:26.517 [info] Marked extension as removed vscjava.vscode-gradle-3.17.1
+2026-01-12 13:03:26.517 [info] Marked extension as removed vscjava.vscode-java-debug-0.58.4
+2026-01-12 13:03:26.517 [info] Marked extension as removed vscjava.vscode-java-dependency-0.26.5
+2026-01-12 13:03:26.517 [info] Marked extension as removed vscjava.vscode-java-test-0.43.2
+2026-01-12 13:03:26.548 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-12 13:03:26.820 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-12 13:03:27.031 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-12 13:03:27.081 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-12 13:03:27.129 [info] Finished running post uninstall script github.copilot 1.388.0
+2026-01-12 13:03:27.136 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-12 13:03:27.942 [info] Getting Manifest... salesforce.salesforcedx-einstein-gpt
+2026-01-12 13:03:27.961 [info] Deleted marked for removal extension from disk salesforce.salesforcedx-vscode /home/brooks/.vscode/extensions/salesforce.salesforcedx-vscode-65.8.1
+2026-01-12 13:03:27.962 [info] Deleted marked for removal extension from disk salesforce.salesforcedx-vscode-org /home/brooks/.vscode/extensions/salesforce.salesforcedx-vscode-org-65.8.1
+2026-01-12 13:03:27.963 [info] Deleted marked for removal extension from disk salesforce.salesforcedx-vscode-visualforce /home/brooks/.vscode/extensions/salesforce.salesforcedx-vscode-visualforce-65.8.1
+2026-01-12 13:03:28.040 [info] Deleted marked for removal extension from disk vscjava.vscode-java-test /home/brooks/.vscode/extensions/vscjava.vscode-java-test-0.43.2
+2026-01-12 13:03:28.045 [info] Installing extension: salesforce.salesforcedx-einstein-gpt {"productVersion":{"version":"1.107.1","date":"2025-12-17T14:15:14.850Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/brooks/.vscode/extensions/extensions.json","path":"/home/brooks/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2026-01-12 13:03:28.139 [info] Deleted marked for removal extension from disk salesforce.sfdx-code-analyzer-vscode /home/brooks/.vscode/extensions/salesforce.sfdx-code-analyzer-vscode-1.13.0
+2026-01-12 13:03:28.139 [info] Deleted marked for removal extension from disk vscjava.vscode-gradle /home/brooks/.vscode/extensions/vscjava.vscode-gradle-3.17.1
+2026-01-12 13:03:28.254 [info] Deleted marked for removal extension from disk salesforce.salesforcedx-vscode-apex /home/brooks/.vscode/extensions/salesforce.salesforcedx-vscode-apex-65.8.1
+2026-01-12 13:03:28.258 [info] Deleted marked for removal extension from disk vscjava.vscode-java-debug /home/brooks/.vscode/extensions/vscjava.vscode-java-debug-0.58.4
+2026-01-12 13:03:28.258 [info] Deleted marked for removal extension from disk salesforce.salesforcedx-vscode-soql /home/brooks/.vscode/extensions/salesforce.salesforcedx-vscode-soql-65.8.1
+2026-01-12 13:03:28.320 [info] Deleted marked for removal extension from disk vscjava.vscode-java-dependency /home/brooks/.vscode/extensions/vscjava.vscode-java-dependency-0.26.5
+2026-01-12 13:03:28.326 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-12 13:03:28.364 [info] Deleted marked for removal extension from disk ms-python.vscode-python-envs /home/brooks/.vscode/extensions/ms-python.vscode-python-envs-1.12.0-linux-x64
+2026-01-12 13:03:28.364 [info] Deleted marked for removal extension from disk salesforce.salesforcedx-vscode-apex-replay-debugger /home/brooks/.vscode/extensions/salesforce.salesforcedx-vscode-apex-replay-debugger-65.8.1
+2026-01-12 13:03:28.411 [info] Deleted marked for removal extension from disk github.copilot /home/brooks/.vscode/extensions/github.copilot-1.388.0
+2026-01-12 13:03:28.427 [info] Deleted marked for removal extension from disk salesforce.salesforcedx-vscode-apex-oas /home/brooks/.vscode/extensions/salesforce.salesforcedx-vscode-apex-oas-65.8.1
+2026-01-12 13:03:28.427 [info] Deleted marked for removal extension from disk redhat.java /home/brooks/.vscode/extensions/redhat.java-1.50.0-linux-x64
+2026-01-12 13:03:28.432 [info] Deleted marked for removal extension from disk github.copilot-chat /home/brooks/.vscode/extensions/github.copilot-chat-0.33.5
+2026-01-12 13:03:28.449 [info] Deleted marked for removal extension from disk github.copilot-chat /home/brooks/.vscode/extensions/github.copilot-chat-0.35.3
+2026-01-12 13:03:28.449 [info] Deleted marked for removal extension from disk github.copilot-chat /home/brooks/.vscode/extensions/github.copilot-chat-0.35.0
+2026-01-12 13:03:28.449 [info] Deleted marked for removal extension from disk github.copilot-chat /home/brooks/.vscode/extensions/github.copilot-chat-0.36.0
+2026-01-12 13:03:28.460 [info] Deleted marked for removal extension from disk salesforce.salesforcedx-vscode-lightning /home/brooks/.vscode/extensions/salesforce.salesforcedx-vscode-lightning-65.8.1
+2026-01-12 13:03:28.462 [info] Deleted marked for removal extension from disk ms-python.debugpy /home/brooks/.vscode/extensions/ms-python.debugpy-2025.16.0
+2026-01-12 13:03:28.462 [info] Deleted marked for removal extension from disk salesforce.salesforcedx-vscode-core /home/brooks/.vscode/extensions/salesforce.salesforcedx-vscode-core-65.8.1
+2026-01-12 13:03:28.462 [info] Deleted marked for removal extension from disk salesforce.salesforcedx-vscode-lwc /home/brooks/.vscode/extensions/salesforce.salesforcedx-vscode-lwc-65.8.1
+2026-01-12 13:03:28.463 [info] Deleted marked for removal extension from disk ms-python.python /home/brooks/.vscode/extensions/ms-python.python-2025.20.0-linux-x64
+2026-01-12 13:03:28.478 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-12 13:03:29.048 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-12 13:03:30.897 [info] Extension signature verification result for salesforce.salesforcedx-einstein-gpt: Success. Internal Code: 0. Executed: true. Duration: 860ms.
+2026-01-12 13:03:31.286 [info] Extracted extension to file:///home/brooks/.vscode/extensions/salesforce.salesforcedx-einstein-gpt-3.12.0: salesforce.salesforcedx-einstein-gpt
+2026-01-12 13:03:31.363 [info] Renamed to /home/brooks/.vscode/extensions/salesforce.salesforcedx-einstein-gpt-3.12.0
+2026-01-12 13:03:31.365 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-12 13:03:31.418 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-12 13:03:31.426 [info] Marked extension as removed salesforce.salesforcedx-einstein-gpt-3.8.0
+2026-01-12 13:03:31.433 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-12 13:03:31.435 [info] Extension installed successfully: salesforce.salesforcedx-einstein-gpt vscode-userdata:/home/brooks/.vscode/extensions/extensions.json
+2026-01-12 13:03:31.473 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.

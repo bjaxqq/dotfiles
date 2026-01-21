@@ -1,0 +1,4 @@
+2026-01-12 13:09:15.461 [info] update#setState idle
+2026-01-12 13:09:45.461 [info] update#setState checking for updates
+2026-01-12 13:09:45.565 [info] update#setState available for download
+2026-01-12 13:12:23.323 [info] Extension host with pid 8930 exited with code: 0, signal: unknown.

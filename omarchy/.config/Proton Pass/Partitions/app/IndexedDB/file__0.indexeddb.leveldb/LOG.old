@@ -1,0 +1,3 @@
+2025/12/11-03:11:59.603 150e0 Reusing MANIFEST /home/brooks/.config/Proton Pass/Partitions/app/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2025/12/11-03:11:59.603 150e0 Recovering log #3
+2025/12/11-03:11:59.604 150e0 Reusing old log /home/brooks/.config/Proton Pass/Partitions/app/IndexedDB/file__0.indexeddb.leveldb/000003.log 

@@ -1,0 +1,20 @@
+# Static information about the filesystems.
+# See fstab(5) for details.
+
+# <file system> <dir> <type> <options> <dump> <pass>
+# /dev/mapper/root
+UUID=68462482-c375-4bc2-be46-bec7de5c48e2	/         	btrfs     	rw,relatime,compress=zstd:3,space_cache=v2,subvol=/@	0 0
+
+# /dev/mapper/root
+UUID=68462482-c375-4bc2-be46-bec7de5c48e2	/home     	btrfs     	rw,relatime,compress=zstd:3,space_cache=v2,subvol=/@home	0 0
+
+# /dev/mapper/root
+UUID=68462482-c375-4bc2-be46-bec7de5c48e2	/var/cache/pacman/pkg	btrfs     	rw,relatime,compress=zstd:3,space_cache=v2,subvol=/@pkg	0 0
+
+# /dev/mapper/root
+UUID=68462482-c375-4bc2-be46-bec7de5c48e2	/var/log  	btrfs     	rw,relatime,compress=zstd:3,space_cache=v2,subvol=/@log	0 0
+
+# /dev/sda1
+UUID=1FB2-A150      	/boot     	vfat      	rw,relatime,fmask=0022,dmask=0022,codepage=437,iocharset=ascii,shortname=mixed,utf8,errors=remount-ro	0 2
+
+UUID=695E-C0BF  /srv/media/LIFE  exfat  defaults,uid=plex,gid=plex  0  0

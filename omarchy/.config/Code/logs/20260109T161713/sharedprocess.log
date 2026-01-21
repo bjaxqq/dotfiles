@@ -1,0 +1,276 @@
+2026-01-09 16:17:16.837 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-09 16:17:16.953 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-09 16:17:16.993 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-09 16:17:17.001 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-09 16:17:17.366 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-09 16:17:17.412 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-09 16:17:17.519 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-09 16:17:17.555 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-09 16:17:17.696 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-09 16:17:17.766 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-09 16:17:17.859 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-09 16:17:17.896 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-09 16:17:18.352 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-09 16:17:18.408 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-09 16:17:18.487 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-09 16:17:18.554 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-09 16:17:19.393 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-09 16:17:19.558 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-09 16:17:21.074 [info] Getting Manifest... github.copilot-chat
+2026-01-09 16:17:21.075 [info] Getting Manifest... ms-python.debugpy
+2026-01-09 16:17:21.075 [info] Getting Manifest... ms-python.python
+2026-01-09 16:17:21.076 [info] Getting Manifest... ms-python.vscode-python-envs
+2026-01-09 16:17:21.076 [info] Getting Manifest... redhat.java
+2026-01-09 16:17:21.077 [info] Getting Manifest... salesforce.salesforcedx-vscode
+2026-01-09 16:17:21.077 [info] Getting Manifest... salesforce.salesforcedx-vscode-apex
+2026-01-09 16:17:21.078 [info] Getting Manifest... salesforce.salesforcedx-vscode-apex-oas
+2026-01-09 16:17:21.078 [info] Getting Manifest... salesforce.salesforcedx-vscode-apex-replay-debugger
+2026-01-09 16:17:21.079 [info] Getting Manifest... salesforce.salesforcedx-vscode-core
+2026-01-09 16:17:21.079 [info] Getting Manifest... salesforce.salesforcedx-vscode-lightning
+2026-01-09 16:17:21.080 [info] Getting Manifest... salesforce.salesforcedx-vscode-lwc
+2026-01-09 16:17:21.080 [info] Getting Manifest... salesforce.salesforcedx-vscode-org
+2026-01-09 16:17:21.080 [info] Getting Manifest... salesforce.salesforcedx-vscode-soql
+2026-01-09 16:17:21.081 [info] Getting Manifest... salesforce.salesforcedx-vscode-visualforce
+2026-01-09 16:17:21.081 [info] Getting Manifest... salesforce.sfdx-code-analyzer-vscode
+2026-01-09 16:17:21.082 [info] Getting Manifest... vscjava.vscode-gradle
+2026-01-09 16:17:21.082 [info] Getting Manifest... vscjava.vscode-java-debug
+2026-01-09 16:17:21.082 [info] Getting Manifest... vscjava.vscode-java-dependency
+2026-01-09 16:17:21.083 [info] Getting Manifest... vscjava.vscode-java-test
+2026-01-09 16:17:21.142 [info] Installing extension: salesforce.salesforcedx-vscode {"productVersion":{"version":"1.107.1","date":"2025-12-17T14:15:14.850Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/brooks/.vscode/extensions/extensions.json","path":"/home/brooks/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2026-01-09 16:17:21.162 [info] Installing extension: salesforce.salesforcedx-vscode-apex-replay-debugger {"productVersion":{"version":"1.107.1","date":"2025-12-17T14:15:14.850Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/brooks/.vscode/extensions/extensions.json","path":"/home/brooks/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2026-01-09 16:17:21.163 [info] Installing extension: salesforce.salesforcedx-vscode-lightning {"productVersion":{"version":"1.107.1","date":"2025-12-17T14:15:14.850Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/brooks/.vscode/extensions/extensions.json","path":"/home/brooks/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2026-01-09 16:17:21.163 [info] Installing extension: salesforce.salesforcedx-vscode-apex {"productVersion":{"version":"1.107.1","date":"2025-12-17T14:15:14.850Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/brooks/.vscode/extensions/extensions.json","path":"/home/brooks/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2026-01-09 16:17:21.164 [info] Installing extension: salesforce.salesforcedx-vscode-apex-oas {"productVersion":{"version":"1.107.1","date":"2025-12-17T14:15:14.850Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/brooks/.vscode/extensions/extensions.json","path":"/home/brooks/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2026-01-09 16:17:21.166 [info] Installing extension: salesforce.salesforcedx-vscode-core {"productVersion":{"version":"1.107.1","date":"2025-12-17T14:15:14.850Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/brooks/.vscode/extensions/extensions.json","path":"/home/brooks/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2026-01-09 16:17:21.167 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-09 16:17:21.190 [info] Installing extension: ms-python.vscode-python-envs {"productVersion":{"version":"1.107.1","date":"2025-12-17T14:15:14.850Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/brooks/.vscode/extensions/extensions.json","path":"/home/brooks/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2026-01-09 16:17:21.190 [info] Installing extension: ms-python.debugpy {"productVersion":{"version":"1.107.1","date":"2025-12-17T14:15:14.850Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/brooks/.vscode/extensions/extensions.json","path":"/home/brooks/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2026-01-09 16:17:21.191 [info] Installing extension: salesforce.salesforcedx-vscode-lwc {"productVersion":{"version":"1.107.1","date":"2025-12-17T14:15:14.850Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/brooks/.vscode/extensions/extensions.json","path":"/home/brooks/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2026-01-09 16:17:21.210 [info] Installing extension: salesforce.sfdx-code-analyzer-vscode {"productVersion":{"version":"1.107.1","date":"2025-12-17T14:15:14.850Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/brooks/.vscode/extensions/extensions.json","path":"/home/brooks/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2026-01-09 16:17:21.223 [info] Installing extension: salesforce.salesforcedx-vscode-org {"productVersion":{"version":"1.107.1","date":"2025-12-17T14:15:14.850Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/brooks/.vscode/extensions/extensions.json","path":"/home/brooks/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2026-01-09 16:17:21.223 [info] Installing extension: salesforce.salesforcedx-vscode-visualforce {"productVersion":{"version":"1.107.1","date":"2025-12-17T14:15:14.850Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/brooks/.vscode/extensions/extensions.json","path":"/home/brooks/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2026-01-09 16:17:21.224 [info] Installing extension: salesforce.salesforcedx-vscode-soql {"productVersion":{"version":"1.107.1","date":"2025-12-17T14:15:14.850Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/brooks/.vscode/extensions/extensions.json","path":"/home/brooks/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2026-01-09 16:17:21.225 [info] Installing extension: vscjava.vscode-gradle {"productVersion":{"version":"1.107.1","date":"2025-12-17T14:15:14.850Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/brooks/.vscode/extensions/extensions.json","path":"/home/brooks/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2026-01-09 16:17:21.226 [info] Installing extension: vscjava.vscode-java-test {"productVersion":{"version":"1.107.1","date":"2025-12-17T14:15:14.850Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/brooks/.vscode/extensions/extensions.json","path":"/home/brooks/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2026-01-09 16:17:21.226 [info] Installing extension: vscjava.vscode-java-dependency {"productVersion":{"version":"1.107.1","date":"2025-12-17T14:15:14.850Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/brooks/.vscode/extensions/extensions.json","path":"/home/brooks/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2026-01-09 16:17:21.227 [info] Installing extension: vscjava.vscode-java-debug {"productVersion":{"version":"1.107.1","date":"2025-12-17T14:15:14.850Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/brooks/.vscode/extensions/extensions.json","path":"/home/brooks/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2026-01-09 16:17:21.234 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-09 16:17:21.308 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-09 16:17:21.315 [info] Installing extension: redhat.java {"productVersion":{"version":"1.107.1","date":"2025-12-17T14:15:14.850Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/brooks/.vscode/extensions/extensions.json","path":"/home/brooks/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2026-01-09 16:17:21.316 [info] Installing extension: github.copilot-chat {"productVersion":{"version":"1.107.1","date":"2025-12-17T14:15:14.850Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/brooks/.vscode/extensions/extensions.json","path":"/home/brooks/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2026-01-09 16:17:21.357 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-09 16:17:21.379 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-09 16:17:21.394 [info] Installing extension: ms-python.python {"productVersion":{"version":"1.107.1","date":"2025-12-17T14:15:14.850Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/brooks/.vscode/extensions/extensions.json","path":"/home/brooks/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2026-01-09 16:17:21.410 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-09 16:17:21.428 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-09 16:17:21.709 [info] Getting Manifest... salesforce.salesforcedx-vscode-apex-testing
+2026-01-09 16:17:22.304 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-09 16:17:23.715 [info] Extension signature verification result for vscjava.vscode-java-dependency: Success. Internal Code: 0. Executed: true. Duration: 1239ms.
+2026-01-09 16:17:23.741 [info] Extracted extension to file:///home/brooks/.vscode/extensions/vscjava.vscode-java-dependency-0.27.0: vscjava.vscode-java-dependency
+2026-01-09 16:17:23.784 [info] Renamed to /home/brooks/.vscode/extensions/vscjava.vscode-java-dependency-0.27.0
+2026-01-09 16:17:23.847 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-09 16:17:23.850 [info] Marked extension as removed vscjava.vscode-java-dependency-0.26.5
+2026-01-09 16:17:23.855 [info] Extension installed successfully: vscjava.vscode-java-dependency vscode-userdata:/home/brooks/.vscode/extensions/extensions.json
+2026-01-09 16:17:23.883 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-09 16:17:27.479 [info] Installing extension: salesforce.salesforcedx-vscode-apex-testing {"productVersion":{"version":"1.107.1","date":"2025-12-17T14:15:14.850Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/brooks/.vscode/extensions/extensions.json","path":"/home/brooks/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installGivenVersion":false,"context":{"dependecyOrPackExtensionInstall":true}}
+2026-01-09 16:17:27.491 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-09 16:17:27.709 [info] Extension signature verification result for vscjava.vscode-java-debug: Success. Internal Code: 0. Executed: true. Duration: 508ms.
+2026-01-09 16:17:27.757 [info] Extracted extension to file:///home/brooks/.vscode/extensions/vscjava.vscode-java-debug-0.58.5: vscjava.vscode-java-debug
+2026-01-09 16:17:27.860 [info] Renamed to /home/brooks/.vscode/extensions/vscjava.vscode-java-debug-0.58.5
+2026-01-09 16:17:27.924 [info] Marked extension as removed vscjava.vscode-java-debug-0.58.4
+2026-01-09 16:17:27.925 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-09 16:17:27.934 [info] Extension installed successfully: vscjava.vscode-java-debug vscode-userdata:/home/brooks/.vscode/extensions/extensions.json
+2026-01-09 16:17:27.985 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-09 16:17:28.138 [info] Extension signature verification result for salesforce.salesforcedx-vscode-org: Success. Internal Code: 0. Executed: true. Duration: 527ms.
+2026-01-09 16:17:28.147 [info] Extension signature verification result for salesforce.salesforcedx-vscode-apex-replay-debugger: Success. Internal Code: 0. Executed: true. Duration: 532ms.
+2026-01-09 16:17:28.184 [info] Extension signature verification result for salesforce.sfdx-code-analyzer-vscode: Success. Internal Code: 0. Executed: true. Duration: 541ms.
+2026-01-09 16:17:28.188 [info] Extracted extension to file:///home/brooks/.vscode/extensions/salesforce.salesforcedx-vscode-org-65.12.1: salesforce.salesforcedx-vscode-org
+2026-01-09 16:17:28.204 [info] Extracted extension to file:///home/brooks/.vscode/extensions/salesforce.sfdx-code-analyzer-vscode-1.14.0: salesforce.sfdx-code-analyzer-vscode
+2026-01-09 16:17:28.233 [info] Extracted extension to file:///home/brooks/.vscode/extensions/salesforce.salesforcedx-vscode-apex-replay-debugger-65.12.1: salesforce.salesforcedx-vscode-apex-replay-debugger
+2026-01-09 16:17:28.254 [info] Extension signature verification result for salesforce.salesforcedx-vscode-apex-oas: Success. Internal Code: 0. Executed: true. Duration: 553ms.
+2026-01-09 16:17:28.318 [info] Renamed to /home/brooks/.vscode/extensions/salesforce.salesforcedx-vscode-org-65.12.1
+2026-01-09 16:17:28.319 [info] Renamed to /home/brooks/.vscode/extensions/salesforce.sfdx-code-analyzer-vscode-1.14.0
+2026-01-09 16:17:28.319 [info] Renamed to /home/brooks/.vscode/extensions/salesforce.salesforcedx-vscode-apex-replay-debugger-65.12.1
+2026-01-09 16:17:28.355 [info] Extension signature verification result for salesforce.salesforcedx-vscode-lightning: Success. Internal Code: 0. Executed: true. Duration: 552ms.
+2026-01-09 16:17:28.371 [info] Marked extension as removed salesforce.sfdx-code-analyzer-vscode-1.13.0
+2026-01-09 16:17:28.422 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-09 16:17:28.430 [info] Extension installed successfully: salesforce.sfdx-code-analyzer-vscode vscode-userdata:/home/brooks/.vscode/extensions/extensions.json
+2026-01-09 16:17:28.430 [info] Marked extension as removed salesforce.salesforcedx-vscode-org-65.8.1
+2026-01-09 16:17:28.480 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-09 16:17:28.489 [info] Extension installed successfully: salesforce.salesforcedx-vscode-org vscode-userdata:/home/brooks/.vscode/extensions/extensions.json
+2026-01-09 16:17:28.496 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-09 16:17:28.526 [info] Marked extension as removed salesforce.salesforcedx-vscode-apex-replay-debugger-65.8.1
+2026-01-09 16:17:28.527 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-09 16:17:28.541 [info] Extension installed successfully: salesforce.salesforcedx-vscode-apex-replay-debugger vscode-userdata:/home/brooks/.vscode/extensions/extensions.json
+2026-01-09 16:17:28.560 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-09 16:17:28.844 [info] Extension signature verification result for salesforce.salesforcedx-vscode: Success. Internal Code: 0. Executed: true. Duration: 523ms.
+2026-01-09 16:17:28.852 [info] Extracted extension to file:///home/brooks/.vscode/extensions/salesforce.salesforcedx-vscode-65.12.1: salesforce.salesforcedx-vscode
+2026-01-09 16:17:28.866 [info] Extracted extension to file:///home/brooks/.vscode/extensions/salesforce.salesforcedx-vscode-lightning-65.12.1: salesforce.salesforcedx-vscode-lightning
+2026-01-09 16:17:28.945 [info] Extracted extension to file:///home/brooks/.vscode/extensions/salesforce.salesforcedx-vscode-apex-oas-65.12.1: salesforce.salesforcedx-vscode-apex-oas
+2026-01-09 16:17:28.960 [info] Renamed to /home/brooks/.vscode/extensions/salesforce.salesforcedx-vscode-65.12.1
+2026-01-09 16:17:28.960 [info] Renamed to /home/brooks/.vscode/extensions/salesforce.salesforcedx-vscode-lightning-65.12.1
+2026-01-09 16:17:29.009 [info] Renamed to /home/brooks/.vscode/extensions/salesforce.salesforcedx-vscode-apex-oas-65.12.1
+2026-01-09 16:17:29.013 [info] Marked extension as removed salesforce.salesforcedx-vscode-65.8.1
+2026-01-09 16:17:29.090 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-09 16:17:29.099 [info] Extension signature verification result for salesforce.salesforcedx-vscode-visualforce: Success. Internal Code: 0. Executed: true. Duration: 548ms.
+2026-01-09 16:17:29.101 [info] Marked extension as removed salesforce.salesforcedx-vscode-lightning-65.8.1
+2026-01-09 16:17:29.102 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-09 16:17:29.108 [info] Extension installed successfully: salesforce.salesforcedx-vscode-lightning vscode-userdata:/home/brooks/.vscode/extensions/extensions.json
+2026-01-09 16:17:29.149 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-09 16:17:29.153 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-09 16:17:29.177 [info] Extension installed successfully: salesforce.salesforcedx-vscode-apex-oas vscode-userdata:/home/brooks/.vscode/extensions/extensions.json
+2026-01-09 16:17:29.178 [info] Marked extension as removed salesforce.salesforcedx-vscode-apex-oas-65.8.1
+2026-01-09 16:17:29.193 [info] Extracted extension to file:///home/brooks/.vscode/extensions/salesforce.salesforcedx-vscode-visualforce-65.12.1: salesforce.salesforcedx-vscode-visualforce
+2026-01-09 16:17:29.219 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-09 16:17:29.259 [info] Renamed to /home/brooks/.vscode/extensions/salesforce.salesforcedx-vscode-visualforce-65.12.1
+2026-01-09 16:17:29.342 [info] Marked extension as removed salesforce.salesforcedx-vscode-visualforce-65.8.1
+2026-01-09 16:17:29.344 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-09 16:17:29.349 [info] Extension installed successfully: salesforce.salesforcedx-vscode-visualforce vscode-userdata:/home/brooks/.vscode/extensions/extensions.json
+2026-01-09 16:17:29.383 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-09 16:17:29.420 [info] Extension signature verification result for vscjava.vscode-java-test: Success. Internal Code: 0. Executed: true. Duration: 509ms.
+2026-01-09 16:17:29.469 [info] Extracted extension to file:///home/brooks/.vscode/extensions/vscjava.vscode-java-test-0.44.0: vscjava.vscode-java-test
+2026-01-09 16:17:29.534 [info] Renamed to /home/brooks/.vscode/extensions/vscjava.vscode-java-test-0.44.0
+2026-01-09 16:17:29.627 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-09 16:17:29.637 [info] Marked extension as removed vscjava.vscode-java-test-0.43.2
+2026-01-09 16:17:29.641 [info] Extension installed successfully: vscjava.vscode-java-test vscode-userdata:/home/brooks/.vscode/extensions/extensions.json
+2026-01-09 16:17:29.667 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-09 16:17:30.080 [info] Extension signature verification result for salesforce.salesforcedx-vscode-core: Success. Internal Code: 0. Executed: true. Duration: 505ms.
+2026-01-09 16:17:30.120 [info] Extension signature verification result for ms-python.vscode-python-envs: Success. Internal Code: 0. Executed: true. Duration: 508ms.
+2026-01-09 16:17:30.268 [info] Extracted extension to file:///home/brooks/.vscode/extensions/ms-python.vscode-python-envs-1.16.0-linux-x64: ms-python.vscode-python-envs
+2026-01-09 16:17:30.418 [info] Renamed to /home/brooks/.vscode/extensions/ms-python.vscode-python-envs-1.16.0-linux-x64
+2026-01-09 16:17:30.472 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-09 16:17:30.480 [info] Marked extension as removed ms-python.vscode-python-envs-1.12.0-linux-x64
+2026-01-09 16:17:30.481 [info] Extension installed successfully: ms-python.vscode-python-envs vscode-userdata:/home/brooks/.vscode/extensions/extensions.json
+2026-01-09 16:17:30.508 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-09 16:17:31.008 [info] Extracted extension to file:///home/brooks/.vscode/extensions/salesforce.salesforcedx-vscode-core-65.12.1: salesforce.salesforcedx-vscode-core
+2026-01-09 16:17:31.025 [info] Extension signature verification result for salesforce.salesforcedx-vscode-apex-testing: Success. Internal Code: 0. Executed: true. Duration: 489ms.
+2026-01-09 16:17:31.092 [info] Renamed to /home/brooks/.vscode/extensions/salesforce.salesforcedx-vscode-core-65.12.1
+2026-01-09 16:17:31.103 [info] Extracted extension to file:///home/brooks/.vscode/extensions/salesforce.salesforcedx-vscode-apex-testing-65.12.1: salesforce.salesforcedx-vscode-apex-testing
+2026-01-09 16:17:31.152 [info] Marked extension as removed salesforce.salesforcedx-vscode-core-65.8.1
+2026-01-09 16:17:31.153 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-09 16:17:31.161 [info] Extension installed successfully: salesforce.salesforcedx-vscode-core vscode-userdata:/home/brooks/.vscode/extensions/extensions.json
+2026-01-09 16:17:31.184 [info] Renamed to /home/brooks/.vscode/extensions/salesforce.salesforcedx-vscode-apex-testing-65.12.1
+2026-01-09 16:17:31.186 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-09 16:17:31.261 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-09 16:17:31.266 [info] Extension installed successfully: salesforce.salesforcedx-vscode vscode-userdata:/home/brooks/.vscode/extensions/extensions.json
+2026-01-09 16:17:31.266 [info] Extension installed successfully: salesforce.salesforcedx-vscode-apex-testing vscode-userdata:/home/brooks/.vscode/extensions/extensions.json
+2026-01-09 16:17:31.297 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-09 16:17:32.194 [info] Extension signature verification result for salesforce.salesforcedx-vscode-soql: Success. Internal Code: 0. Executed: true. Duration: 476ms.
+2026-01-09 16:17:32.253 [info] Extracted extension to file:///home/brooks/.vscode/extensions/salesforce.salesforcedx-vscode-soql-65.12.1: salesforce.salesforcedx-vscode-soql
+2026-01-09 16:17:32.377 [info] Renamed to /home/brooks/.vscode/extensions/salesforce.salesforcedx-vscode-soql-65.12.1
+2026-01-09 16:17:32.461 [info] Marked extension as removed salesforce.salesforcedx-vscode-soql-65.8.1
+2026-01-09 16:17:32.463 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-09 16:17:32.472 [info] Extension installed successfully: salesforce.salesforcedx-vscode-soql vscode-userdata:/home/brooks/.vscode/extensions/extensions.json
+2026-01-09 16:17:32.498 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-09 16:17:33.025 [info] Extension signature verification result for ms-python.debugpy: Success. Internal Code: 0. Executed: true. Duration: 496ms.
+2026-01-09 16:17:33.244 [info] Extracted extension to file:///home/brooks/.vscode/extensions/ms-python.debugpy-2025.18.0-linux-x64: ms-python.debugpy
+2026-01-09 16:17:33.309 [info] Renamed to /home/brooks/.vscode/extensions/ms-python.debugpy-2025.18.0-linux-x64
+2026-01-09 16:17:33.362 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-09 16:17:33.370 [info] Marked extension as removed ms-python.debugpy-2025.16.0
+2026-01-09 16:17:33.371 [info] Extension installed successfully: ms-python.debugpy vscode-userdata:/home/brooks/.vscode/extensions/extensions.json
+2026-01-09 16:17:33.397 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-09 16:17:34.649 [info] Extension signature verification result for ms-python.python: Success. Internal Code: 0. Executed: true. Duration: 523ms.
+2026-01-09 16:17:35.559 [info] Extracted extension to file:///home/brooks/.vscode/extensions/ms-python.python-2026.0.0-linux-x64: ms-python.python
+2026-01-09 16:17:35.735 [info] Renamed to /home/brooks/.vscode/extensions/ms-python.python-2026.0.0-linux-x64
+2026-01-09 16:17:35.786 [info] Extension signature verification result for salesforce.salesforcedx-vscode-lwc: Success. Internal Code: 0. Executed: true. Duration: 559ms.
+2026-01-09 16:17:35.831 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-09 16:17:35.839 [info] Marked extension as removed ms-python.python-2025.20.0-linux-x64
+2026-01-09 16:17:35.840 [info] Extension installed successfully: ms-python.python vscode-userdata:/home/brooks/.vscode/extensions/extensions.json
+2026-01-09 16:17:35.869 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-09 16:17:36.323 [info] Extension signature verification result for github.copilot-chat: Success. Internal Code: 0. Executed: true. Duration: 546ms.
+2026-01-09 16:17:36.646 [info] Extracted extension to file:///home/brooks/.vscode/extensions/github.copilot-chat-0.35.3: github.copilot-chat
+2026-01-09 16:17:36.710 [info] Renamed to /home/brooks/.vscode/extensions/github.copilot-chat-0.35.3
+2026-01-09 16:17:36.796 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-09 16:17:36.809 [info] Extension installed successfully: github.copilot-chat vscode-userdata:/home/brooks/.vscode/extensions/extensions.json
+2026-01-09 16:17:36.810 [info] Marked extension as removed github.copilot-chat-0.33.5
+2026-01-09 16:17:36.810 [info] Marked extension as removed github.copilot-chat-0.35.0
+2026-01-09 16:17:36.833 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-09 16:17:37.955 [info] Extracted extension to file:///home/brooks/.vscode/extensions/salesforce.salesforcedx-vscode-lwc-65.12.1: salesforce.salesforcedx-vscode-lwc
+2026-01-09 16:17:38.092 [info] Renamed to /home/brooks/.vscode/extensions/salesforce.salesforcedx-vscode-lwc-65.12.1
+2026-01-09 16:17:38.137 [info] Marked extension as removed salesforce.salesforcedx-vscode-lwc-65.8.1
+2026-01-09 16:17:38.146 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-09 16:17:38.157 [info] Extension installed successfully: salesforce.salesforcedx-vscode-lwc vscode-userdata:/home/brooks/.vscode/extensions/extensions.json
+2026-01-09 16:17:38.181 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-09 16:17:40.453 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-09 16:17:41.084 [info] Extension signature verification result for salesforce.salesforcedx-vscode-apex: Success. Internal Code: 0. Executed: true. Duration: 530ms.
+2026-01-09 16:17:41.270 [info] Extracted extension to file:///home/brooks/.vscode/extensions/salesforce.salesforcedx-vscode-apex-65.12.1: salesforce.salesforcedx-vscode-apex
+2026-01-09 16:17:41.309 [info] Renamed to /home/brooks/.vscode/extensions/salesforce.salesforcedx-vscode-apex-65.12.1
+2026-01-09 16:17:41.361 [info] Marked extension as removed salesforce.salesforcedx-vscode-apex-65.8.1
+2026-01-09 16:17:41.362 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-09 16:17:41.371 [info] Extension installed successfully: salesforce.salesforcedx-vscode-apex vscode-userdata:/home/brooks/.vscode/extensions/extensions.json
+2026-01-09 16:17:41.399 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-09 16:17:42.497 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-09 16:17:45.369 [info] Getting Manifest... github.copilot-chat
+2026-01-09 16:17:45.398 [info] Installing extension: github.copilot-chat {"pinned":false,"productVersion":{"version":"1.108.0","date":"2026-01-08T13:56:51.150Z"},"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/brooks/.vscode/extensions/extensions.json","path":"/home/brooks/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2026-01-09 16:17:45.424 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-09 16:17:45.576 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-09 16:17:46.964 [info] Extension signature verification result for vscjava.vscode-gradle: Success. Internal Code: 0. Executed: true. Duration: 530ms.
+2026-01-09 16:17:47.194 [info] Extracted extension to file:///home/brooks/.vscode/extensions/vscjava.vscode-gradle-3.17.2: vscjava.vscode-gradle
+2026-01-09 16:17:47.259 [info] Renamed to /home/brooks/.vscode/extensions/vscjava.vscode-gradle-3.17.2
+2026-01-09 16:17:47.314 [info] Marked extension as removed vscjava.vscode-gradle-3.17.1
+2026-01-09 16:17:47.317 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-09 16:17:47.333 [info] Extension installed successfully: vscjava.vscode-gradle vscode-userdata:/home/brooks/.vscode/extensions/extensions.json
+2026-01-09 16:17:47.365 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-09 16:17:52.224 [info] Extension signature verification result for github.copilot-chat: Success. Internal Code: 0. Executed: true. Duration: 498ms.
+2026-01-09 16:17:52.480 [info] Extracted extension to file:///home/brooks/.vscode/extensions/github.copilot-chat-0.36.0: github.copilot-chat
+2026-01-09 16:17:52.534 [info] Renamed to /home/brooks/.vscode/extensions/github.copilot-chat-0.36.0
+2026-01-09 16:17:52.537 [error] [/home/brooks/.vscode/extensions/github.copilot-chat-0.36.0]: Extension is not compatible with Code 1.107.1. Extension requires: ^1.108.0.
+2026-01-09 16:17:52.596 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-09 16:17:52.604 [error] [/home/brooks/.vscode/extensions/github.copilot-chat-0.36.0]: Extension is not compatible with Code 1.107.1. Extension requires: ^1.108.0.
+2026-01-09 16:17:52.605 [error] Error while installing the extension github.copilot-chat Cannot read the extension from /home/brooks/.vscode/extensions/github.copilot-chat-0.36.0 vscode-userdata:/home/brooks/.vscode/extensions/extensions.json
+2026-01-09 16:17:52.633 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-09 16:17:52.642 [error] [/home/brooks/.vscode/extensions/github.copilot-chat-0.36.0]: Extension is not compatible with Code 1.107.1. Extension requires: ^1.108.0.
+2026-01-09 16:17:58.312 [info] Getting Manifest... ms-vscode-remote.remote-containers
+2026-01-09 16:17:58.313 [info] Getting Manifest... ms-azuretools.vscode-containers
+2026-01-09 16:17:58.574 [info] Installing extension: ms-vscode-remote.remote-containers {"isMachineScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/brooks/.vscode/extensions/extensions.json","path":"/home/brooks/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.107.1","date":"2025-12-17T14:15:14.850Z"}}
+2026-01-09 16:17:58.574 [info] Installing extension: ms-azuretools.vscode-containers {"isMachineScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/brooks/.vscode/extensions/extensions.json","path":"/home/brooks/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.107.1","date":"2025-12-17T14:15:14.850Z"}}
+2026-01-09 16:17:58.609 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-09 16:17:58.618 [error] [/home/brooks/.vscode/extensions/github.copilot-chat-0.36.0]: Extension is not compatible with Code 1.107.1. Extension requires: ^1.108.0.
+2026-01-09 16:17:58.758 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-09 16:17:58.764 [error] [/home/brooks/.vscode/extensions/github.copilot-chat-0.36.0]: Extension is not compatible with Code 1.107.1. Extension requires: ^1.108.0.
+2026-01-09 16:18:01.073 [info] Extension signature verification result for ms-azuretools.vscode-containers: Success. Internal Code: 0. Executed: true. Duration: 505ms.
+2026-01-09 16:18:01.122 [info] Extracted extension to file:///home/brooks/.vscode/extensions/ms-azuretools.vscode-containers-2.3.0: ms-azuretools.vscode-containers
+2026-01-09 16:18:01.147 [info] Extension signature verification result for ms-vscode-remote.remote-containers: Success. Internal Code: 0. Executed: true. Duration: 499ms.
+2026-01-09 16:18:01.180 [info] Renamed to /home/brooks/.vscode/extensions/ms-azuretools.vscode-containers-2.3.0
+2026-01-09 16:18:01.219 [info] Extracted extension to file:///home/brooks/.vscode/extensions/ms-vscode-remote.remote-containers-0.437.0: ms-vscode-remote.remote-containers
+2026-01-09 16:18:01.280 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-09 16:18:01.290 [error] [/home/brooks/.vscode/extensions/github.copilot-chat-0.36.0]: Extension is not compatible with Code 1.107.1. Extension requires: ^1.108.0.
+2026-01-09 16:18:01.331 [info] Renamed to /home/brooks/.vscode/extensions/ms-vscode-remote.remote-containers-0.437.0
+2026-01-09 16:18:01.439 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-09 16:18:01.444 [error] [/home/brooks/.vscode/extensions/github.copilot-chat-0.36.0]: Extension is not compatible with Code 1.107.1. Extension requires: ^1.108.0.
+2026-01-09 16:18:01.447 [info] Extension installed successfully: ms-azuretools.vscode-containers vscode-userdata:/home/brooks/.vscode/extensions/extensions.json
+2026-01-09 16:18:01.447 [info] Extension installed successfully: ms-vscode-remote.remote-containers vscode-userdata:/home/brooks/.vscode/extensions/extensions.json
+2026-01-09 16:18:01.490 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-09 16:18:01.498 [error] [/home/brooks/.vscode/extensions/github.copilot-chat-0.36.0]: Extension is not compatible with Code 1.107.1. Extension requires: ^1.108.0.
+2026-01-09 16:18:02.366 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-09 16:18:08.638 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-09 16:18:08.648 [error] [/home/brooks/.vscode/extensions/github.copilot-chat-0.36.0]: Extension is not compatible with Code 1.107.1. Extension requires: ^1.108.0.
+2026-01-09 16:18:10.749 [info] Uninstalling extension from the profile: github.copilot-chat@0.36.0 vscode-userdata:/home/brooks/.vscode/extensions/extensions.json
+2026-01-09 16:18:10.749 [info] Uninstalling extension from the profile: github.copilot@1.388.0 vscode-userdata:/home/brooks/.vscode/extensions/extensions.json
+2026-01-09 16:18:10.768 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-09 16:18:10.781 [error] [/home/brooks/.vscode/extensions/github.copilot-chat-0.36.0]: Extension is not compatible with Code 1.107.1. Extension requires: ^1.108.0.
+2026-01-09 16:18:10.784 [info] Extensions is already requested to uninstall github.copilot
+2026-01-09 16:18:10.784 [info] Extensions is already requested to uninstall github.copilot
+2026-01-09 16:18:10.784 [info] Extensions is already requested to uninstall github.copilot-chat
+2026-01-09 16:18:10.784 [info] Extensions is already requested to uninstall github.copilot
+2026-01-09 16:18:10.784 [info] Extensions is already requested to uninstall github.copilot
+2026-01-09 16:18:10.784 [info] Extensions is already requested to uninstall github.copilot-chat
+2026-01-09 16:18:10.784 [info] Extensions is already requested to uninstall github.copilot
+2026-01-09 16:18:10.784 [info] Extensions is already requested to uninstall github.copilot-chat
+2026-01-09 16:18:10.784 [info] Extensions is already requested to uninstall github.copilot
+2026-01-09 16:18:11.867 [error] [/home/brooks/.vscode/extensions/github.copilot-chat-0.36.0]: Extension is not compatible with Code 1.107.1. Extension requires: ^1.108.0.
+2026-01-09 16:18:11.868 [info] Marked extension as removed github.copilot-chat-0.35.3
+2026-01-09 16:18:11.868 [info] Marked extension as removed github.copilot-chat-0.36.0
+2026-01-09 16:18:13.858 [info] Marked extension as removed github.copilot-1.388.0
+2026-01-09 16:18:13.919 [info] Successfully uninstalled extension from the profile github.copilot-chat@0.36.0 vscode-userdata:/home/brooks/.vscode/extensions/extensions.json
+2026-01-09 16:18:13.919 [info] Successfully uninstalled extension from the profile github.copilot@1.388.0 vscode-userdata:/home/brooks/.vscode/extensions/extensions.json
+2026-01-09 16:18:13.950 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-09 16:18:14.486 [info] Extension signature verification result for redhat.java: Success. Internal Code: 0. Executed: true. Duration: 634ms.
+2026-01-09 16:18:15.404 [info] Extracted extension to file:///home/brooks/.vscode/extensions/redhat.java-1.51.0-linux-x64: redhat.java
+2026-01-09 16:18:15.451 [info] Renamed to /home/brooks/.vscode/extensions/redhat.java-1.51.0-linux-x64
+2026-01-09 16:18:15.495 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-09 16:18:15.503 [info] Marked extension as removed redhat.java-1.50.0-linux-x64
+2026-01-09 16:18:15.504 [info] Extension installed successfully: redhat.java vscode-userdata:/home/brooks/.vscode/extensions/extensions.json
+2026-01-09 16:18:15.529 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-09 16:18:18.364 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.
+2026-01-09 16:18:18.462 [warning] [salesforcedx-einstein-gpt]: Couldn't find message for key salesforcedx-einstein-gpt.icons.vibe-codey.description.

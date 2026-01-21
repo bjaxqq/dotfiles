@@ -1,0 +1,43 @@
+12/11/2025, 5:47:55 PM EST [Modules] Modules initializing
+12/11/2025, 5:47:55 PM EST [Modules] Distribution: remote
+12/11/2025, 5:47:55 PM EST [Modules] Host updates: enabled
+12/11/2025, 5:47:55 PM EST [Modules] Module updates: enabled
+12/11/2025, 5:47:55 PM EST [Modules] Module install path: /home/brooks/.config/discord/0.0.115/modules
+12/11/2025, 5:47:55 PM EST [Modules] Module installed file path: /home/brooks/.config/discord/0.0.115/modules/installed.json
+12/11/2025, 5:47:55 PM EST [Modules] Module download path: /home/brooks/.config/discord/0.0.115/modules/pending
+12/11/2025, 5:47:55 PM EST [Modules] Bootstrapping...
+12/11/2025, 5:47:55 PM EST [Modules] Installing discord_desktop_core@0 from /opt/discord/resources/bootstrap/discord_desktop_core.zip
+12/11/2025, 5:47:55 PM EST [Modules] Failed installing discord_desktop_core@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_desktop_core.zip'
+12/11/2025, 5:47:55 PM EST [Modules] Installing discord_erlpack@0 from /opt/discord/resources/bootstrap/discord_erlpack.zip
+12/11/2025, 5:47:55 PM EST [Modules] Failed installing discord_erlpack@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_erlpack.zip'
+12/11/2025, 5:47:55 PM EST [Modules] Installing discord_spellcheck@0 from /opt/discord/resources/bootstrap/discord_spellcheck.zip
+12/11/2025, 5:47:55 PM EST [Modules] Failed installing discord_spellcheck@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_spellcheck.zip'
+12/11/2025, 5:47:55 PM EST [Modules] Installing discord_utils@0 from /opt/discord/resources/bootstrap/discord_utils.zip
+12/11/2025, 5:47:55 PM EST [Modules] Failed installing discord_utils@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_utils.zip'
+12/11/2025, 5:47:55 PM EST [Modules] Installing discord_voice@0 from /opt/discord/resources/bootstrap/discord_voice.zip
+12/11/2025, 5:47:55 PM EST [Modules] Failed installing discord_voice@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_voice.zip'
+12/11/2025, 5:47:55 PM EST [Modules] Installing discord_zstd@0 from /opt/discord/resources/bootstrap/discord_zstd.zip
+12/11/2025, 5:47:55 PM EST [Modules] Failed installing discord_zstd@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_zstd.zip'
+12/11/2025, 5:47:55 PM EST [Modules] Finished module installations. [success: 0] [failure: 6]
+12/11/2025, 5:47:55 PM EST [Modules] Checking for host updates.
+12/11/2025, 5:47:57 PM EST [Modules] Host update is available. Manual update required!
+12/11/2025, 6:18:33 PM EST [Modules] Modules initializing
+12/11/2025, 6:18:33 PM EST [Modules] Distribution: remote
+12/11/2025, 6:18:33 PM EST [Modules] Host updates: enabled
+12/11/2025, 6:18:33 PM EST [Modules] Module updates: enabled
+12/11/2025, 6:18:33 PM EST [Modules] Module install path: /home/brooks/.config/discord/0.0.115/modules
+12/11/2025, 6:18:33 PM EST [Modules] Module installed file path: /home/brooks/.config/discord/0.0.115/modules/installed.json
+12/11/2025, 6:18:33 PM EST [Modules] Module download path: /home/brooks/.config/discord/0.0.115/modules/pending
+12/11/2025, 6:18:33 PM EST [Modules] No updates to install
+12/11/2025, 6:18:33 PM EST [Modules] Checking for host updates.
+12/11/2025, 6:18:33 PM EST [Modules] Host update is available. Manual update required!
+12/11/2025, 6:21:04 PM EST [Modules] Modules initializing
+12/11/2025, 6:21:04 PM EST [Modules] Distribution: remote
+12/11/2025, 6:21:04 PM EST [Modules] Host updates: enabled
+12/11/2025, 6:21:04 PM EST [Modules] Module updates: enabled
+12/11/2025, 6:21:04 PM EST [Modules] Module install path: /home/brooks/.config/discord/0.0.115/modules
+12/11/2025, 6:21:04 PM EST [Modules] Module installed file path: /home/brooks/.config/discord/0.0.115/modules/installed.json
+12/11/2025, 6:21:04 PM EST [Modules] Module download path: /home/brooks/.config/discord/0.0.115/modules/pending
+12/11/2025, 6:21:04 PM EST [Modules] No updates to install
+12/11/2025, 6:21:04 PM EST [Modules] Checking for host updates.
+12/11/2025, 6:21:05 PM EST [Modules] Host update is available. Manual update required!

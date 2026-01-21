@@ -1,0 +1,16 @@
+{
+	"__internal__": {
+		"migrations": {
+			"version": "1.33.3"
+		}
+	},
+	"theme": "system",
+	"windowConfig": {
+		"x": 0,
+		"y": 0,
+		"width": 1261,
+		"height": 1390,
+		"maximized": true,
+		"zoomLevel": 0
+	}
+}

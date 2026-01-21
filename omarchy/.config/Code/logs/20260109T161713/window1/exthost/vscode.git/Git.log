@@ -1,0 +1,30 @@
+2026-01-09 16:17:18.710 [info] [main] Log level: Info
+2026-01-09 16:17:18.710 [info] [main] Validating found git in: "git"
+2026-01-09 16:17:18.710 [info] [main] Using git "2.52.0" from "git"
+2026-01-09 16:17:18.710 [info] [Model][doInitialScan] Initial repository scan started
+2026-01-09 16:17:18.710 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2026-01-09 16:17:35.502 [info] [main] Log level: Info
+2026-01-09 16:17:35.502 [info] [main] Validating found git in: "git"
+2026-01-09 16:17:35.502 [info] [main] Using git "2.52.0" from "git"
+2026-01-09 16:17:35.502 [info] [Model][doInitialScan] Initial repository scan started
+2026-01-09 16:17:35.502 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2026-01-09 16:17:41.672 [info] [main] Log level: Info
+2026-01-09 16:17:41.672 [info] [main] Validating found git in: "git"
+2026-01-09 16:17:41.672 [info] [main] Using git "2.52.0" from "git"
+2026-01-09 16:17:41.672 [info] [Model][doInitialScan] Initial repository scan started
+2026-01-09 16:17:41.672 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2026-01-09 16:17:44.224 [info] [main] Log level: Info
+2026-01-09 16:17:44.224 [info] [main] Validating found git in: "git"
+2026-01-09 16:17:44.224 [info] [main] Using git "2.52.0" from "git"
+2026-01-09 16:17:44.224 [info] [Model][doInitialScan] Initial repository scan started
+2026-01-09 16:17:44.224 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2026-01-09 16:18:13.172 [info] [main] Log level: Info
+2026-01-09 16:18:13.172 [info] [main] Validating found git in: "git"
+2026-01-09 16:18:13.172 [info] [main] Using git "2.52.0" from "git"
+2026-01-09 16:18:13.172 [info] [Model][doInitialScan] Initial repository scan started
+2026-01-09 16:18:13.172 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2026-01-09 16:18:20.205 [info] [main] Log level: Info
+2026-01-09 16:18:20.205 [info] [main] Validating found git in: "git"
+2026-01-09 16:18:20.205 [info] [main] Using git "2.52.0" from "git"
+2026-01-09 16:18:20.205 [info] [Model][doInitialScan] Initial repository scan started
+2026-01-09 16:18:20.205 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)

@@ -1,0 +1,4 @@
+2026-01-12 13:55:51.456 [info] update#setState idle
+2026-01-12 13:56:21.456 [info] update#setState checking for updates
+2026-01-12 13:56:21.553 [info] update#setState idle
+2026-01-12 13:57:34.462 [info] Extension host with pid 88264 exited with code: 0, signal: unknown.
